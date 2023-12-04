@@ -6,6 +6,7 @@ This MERN stack web application is designed to assist Virginia Tech students in 
 
 - [Software Architecture](#software-architecture)
 - [ER Diagram](#er-diagram)
+- [Installation](#installation)
 - [Scripting](#scripting)
 - [Usage](#usage)
 - [User Authentication](#user-authentication)
@@ -17,6 +18,78 @@ This MERN stack web application is designed to assist Virginia Tech students in 
 ## ER Diagram
 
 ![](ERDiagram.png)
+
+## Installation
+
+Follow these steps to set up Course Crafters on your local environment:
+
+1. **Install Dependencies**:
+   - Ensure you have **Python**, **Node.js**, and **MongoDB** (including MongoDB Compass) installed. If not, download and install them from their official websites.
+
+2. **Set Up MongoDB**:
+   - Open MongoDB Compass and create a new database named `CourseCrafterDB`.
+   - Within this database, create a collection named `user`.
+
+3. **Clone the Repository**:
+   - Use git to clone the Course Crafters repository:
+     ```bash
+     git clone https://github.com/uehlingeric/CourseCrafters.git
+     ```
+
+4. **Create Environment Variables**:
+   - Navigate to the cloned repository's root directory.
+   - Create a `.env` file and add the following lines:
+     ```
+     MONGODB_URI=mongodb://127.0.0.1/CourseCrafterDB
+     JWT_SECRET=your_secret_string_here
+     ```
+     Replace `your_secret_string_here` with any long string of your choice.
+
+5. **Install Python Packages and Import Data**:
+   - Change directory to `scripts`:
+     ```bash
+     cd scripts
+     ```
+   - Install required Python packages:
+     ```bash
+     pip install pandas bcrypt pymongo
+     ```
+   - Run the import script:
+     ```bash
+     python import.py
+     ```
+
+6. **Set Up Node.js Server**:
+   - Return to the root directory:
+     ```bash
+     cd ..
+     ```
+   - Install Node.js packages:
+     ```bash
+     npm install
+     ```
+   - Start the Node.js server:
+     ```bash
+     node server.js
+     ```
+
+7. **Set Up and Run the Client**:
+   - Open a second terminal.
+   - Navigate to the `client` directory:
+     ```bash
+     cd client
+     ```
+   - Install necessary packages:
+     ```bash
+     npm install
+     ```
+   - Start the client application:
+     ```bash
+     npm start
+     ```
+
+Follow these steps in order to successfully set up and run the Course Crafters application on your local machine.
+
 
 ## Scripting
 
