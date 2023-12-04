@@ -73,14 +73,28 @@ const CourseDetail = () => {
         }
     };
 
+    const calculateWithdrawRate = (withdraw, enrollment) => {
+        if (enrollment === 0) return 0; // Avoid division by zero
+        return (withdraw / enrollment) * 100; // Return a numeric value
+    };
+
     const sortedNewInstances = React.useMemo(() => {
         let sortableItems = [...newInstances];
         if (sortConfig.key !== null) {
             sortableItems.sort((a, b) => {
-                if (a[sortConfig.key] < b[sortConfig.key]) {
+                let aValue = a[sortConfig.key];
+                let bValue = b[sortConfig.key];
+
+                // Special handling for withdraw_rate
+                if (sortConfig.key === 'withdraw_rate') {
+                    aValue = calculateWithdrawRate(a.withdraw, a.enrollment);
+                    bValue = calculateWithdrawRate(b.withdraw, b.enrollment);
+                }
+
+                if (aValue < bValue) {
                     return sortConfig.direction === 'ascending' ? -1 : 1;
                 }
-                if (a[sortConfig.key] > b[sortConfig.key]) {
+                if (aValue > bValue) {
                     return sortConfig.direction === 'ascending' ? 1 : -1;
                 }
                 return 0;
@@ -98,10 +112,19 @@ const CourseDetail = () => {
         let sortableItems = [...instructorCourseStats];
         if (sortConfig.key !== null) {
             sortableItems.sort((a, b) => {
-                if (a[sortConfig.key] < b[sortConfig.key]) {
+                let aValue = a[sortConfig.key];
+                let bValue = b[sortConfig.key];
+
+                // Special handling for withdraw_rate
+                if (sortConfig.key === 'withdraw_rate') {
+                    aValue = calculateWithdrawRate(a.withdraw, a.enrollment);
+                    bValue = calculateWithdrawRate(b.withdraw, b.enrollment);
+                }
+
+                if (aValue < bValue) {
                     return sortConfig.direction === 'ascending' ? -1 : 1;
                 }
-                if (a[sortConfig.key] > b[sortConfig.key]) {
+                if (aValue > bValue) {
                     return sortConfig.direction === 'ascending' ? 1 : -1;
                 }
                 return 0;
@@ -118,10 +141,19 @@ const CourseDetail = () => {
         let sortableItems = [...pastInstances];
         if (sortConfig.key !== null) {
             sortableItems.sort((a, b) => {
-                if (a[sortConfig.key] < b[sortConfig.key]) {
+                let aValue = a[sortConfig.key];
+                let bValue = b[sortConfig.key];
+
+                // Special handling for withdraw_rate
+                if (sortConfig.key === 'withdraw_rate') {
+                    aValue = calculateWithdrawRate(a.withdraw, a.enrollment);
+                    bValue = calculateWithdrawRate(b.withdraw, b.enrollment);
+                }
+
+                if (aValue < bValue) {
                     return sortConfig.direction === 'ascending' ? -1 : 1;
                 }
-                if (a[sortConfig.key] > b[sortConfig.key]) {
+                if (aValue > bValue) {
                     return sortConfig.direction === 'ascending' ? 1 : -1;
                 }
                 return 0;
@@ -137,26 +169,26 @@ const CourseDetail = () => {
     const handleAddNewInstance = (crn) => {
         const token = localStorage.getItem('token');
         const username = localStorage.getItem('username'); // Retrieve username from localStorage
-    
+
         if (!token) {
             alert('You must be logged in to add courses');
             return;
         }
-    
+
         axios.post('/api/user/addToSchedule', { username, crn }, {
             headers: {
                 'Authorization': `Bearer ${token}`
             }
         })
-        .then(response => {
-            alert('Course added to your schedule successfully');
-        })
-        .catch(error => {
-            console.error('Error adding course to schedule:', error);
-            alert('Error adding course to schedule');
-        });
+            .then(response => {
+                alert('Course added to your schedule successfully');
+            })
+            .catch(error => {
+                console.error('Error adding course to schedule:', error);
+                alert('Error adding course to schedule');
+            });
     };
-    
+
     return (
         <div>
             <h2>{course.course_id} - {course.title}</h2>
@@ -230,6 +262,7 @@ const CourseDetail = () => {
                                 <th onClick={() => requestSort('gpa')}>GPA{getSortDirectionIndicator('gpa')}</th>
                                 <th onClick={() => requestSort('enrollment')}>Enrollment{getSortDirectionIndicator('enrollment')}</th>
                                 <th onClick={() => requestSort('withdraw')}>Withdraw{getSortDirectionIndicator('withdraw')}</th>
+                                <th onClick={() => requestSort('withdraw_rate')}>Withdraw Rate{getSortDirectionIndicator('withdraw_rate')}</th>
                                 <th onClick={() => requestSort('past_classes')}>Past Classes{getSortDirectionIndicator('past_classes')}</th>
                             </tr>
                         </thead>
@@ -242,6 +275,7 @@ const CourseDetail = () => {
                                     <td>{instructorCourseStat.gpa.toFixed(2)}</td>
                                     <td>{instructorCourseStat.enrollment.toFixed(2)}</td>
                                     <td>{instructorCourseStat.withdraw.toFixed(2)}</td>
+                                    <td>{calculateWithdrawRate(instructorCourseStat.withdraw, instructorCourseStat.enrollment).toFixed(2)}%</td>
                                     <td>{instructorCourseStat.past_classes}</td>
                                 </tr>
                             ))}
@@ -268,6 +302,7 @@ const CourseDetail = () => {
                                 <th onClick={() => requestSort('gpa')}>GPA{getSortDirectionIndicator('gpa')}</th>
                                 <th onClick={() => requestSort('enrollment')}>Enrollment{getSortDirectionIndicator('enrollment')}</th>
                                 <th onClick={() => requestSort('withdraw')}>Withdraw{getSortDirectionIndicator('withdraw')}</th>
+                                <th onClick={() => requestSort('withdraw_rate')}>Withdraw Rate{getSortDirectionIndicator('withdraw_rate')}</th>
                             </tr>
                         </thead>
                         <tbody>
@@ -282,6 +317,7 @@ const CourseDetail = () => {
                                     <td>{pastInstance.gpa.toFixed(2)}</td>
                                     <td>{pastInstance.enrollment}</td>
                                     <td>{pastInstance.withdraw}</td>
+                                    <td>{calculateWithdrawRate(pastInstance.withdraw, pastInstance.enrollment).toFixed(2)}%</td>
                                 </tr>
                             ))}
                         </tbody>

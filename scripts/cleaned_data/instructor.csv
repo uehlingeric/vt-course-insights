@@ -9,7 +9,7 @@ Abaye (HORT),Abaye,HORT,3.38,6.0,0.0,2,0
 Abaye (SPES),Abaye,SPES,3.68,15.5,0.5,6,4
 Abbas (CEE),Abbas,CEE,3.58,30.43,0.29,14,1
 Abbate (STS),Abbate,STS,3.85,6.38,0.0,8,0
-Abbott (ECE),Abbott,ECE,2.9,47.75,2.1,20,0
+Abbott (ECE),Abbott,ECE,2.9,47.75,2.1,20,1
 Abdel Haleem (ARCH),Abdel Haleem,ARCH,3.47,10.33,0.0,3,0
 Abdelaziz (CEE),Abdelaziz,CEE,3.37,16.2,0.2,5,0
 Abdelhalim (CEE),Abdelhalim,CEE,3.74,40.0,0.0,1,0
@@ -47,7 +47,7 @@ Afonja (ENGE),Afonja,ENGE,3.26,32.5,0.0,2,0
 Afsari (CEM),Afsari,CEM,3.8,23.0,0.15,13,2
 Afsari (CNST),Afsari,CNST,4.0,5.0,0.0,1,1
 Aga (ARCH),Aga,ARCH,3.75,18.0,0.0,2,0
-Agah (ECE),Agah,ECE,3.13,18.0,0.0,3,0
+Agah (ECE),Agah,ECE,3.13,18.0,0.0,3,1
 Agee (BC),Agee,BC,3.49,35.09,0.05,22,2
 Aggrey (STS),Aggrey,STS,3.56,14.0,0.0,1,1
 Agmon (HIST),Agmon,HIST,3.61,21.25,0.5,4,0
@@ -109,7 +109,7 @@ Allen (STS),Allen,STS,3.83,5.5,0.0,2,0
 Allen (TBMH),Allen,TBMH,4.0,10.25,0.0,4,1
 Alley (ME),Alley,ME,3.56,314.0,1.0,1,0
 Allnutt (ENGL),Allnutt,ENGL,3.38,17.0,0.46,41,4
-Almond (ACIS),Almond,ACIS,3.0,39.33,1.72,123,0
+Almond (ACIS),Almond,ACIS,3.0,39.33,1.72,123,9
 Alphin (HIST),Alphin,HIST,3.7,42.0,0.0,1,0
 Alphin (IS),Alphin,IS,3.56,16.5,0.0,2,0
 Alphin (PHIL),Alphin,PHIL,3.96,7.0,0.0,1,0
@@ -174,7 +174,7 @@ Arav (PHYS),Arav,PHYS,3.52,90.5,1.1,10,0
 Archer (ARCH),Archer,ARCH,3.78,10.33,0.0,9,0
 Archibald (ALCE),Archibald,ALCE,3.96,7.44,0.0,9,0
 Arditti (HD),Arditti,HD,3.32,46.09,0.36,11,0
-Arena (BMES),Arena,BMES,3.89,35.32,0.05,22,4
+Arena (BMES),Arena,BMES,3.89,35.32,0.05,22,3
 Arena (ESM),Arena,ESM,3.35,26.0,0.38,29,1
 Arledge (PAPA),Arledge,PAPA,3.78,8.0,0.0,2,0
 Armstrong (AFST),Armstrong,AFST,3.87,10.33,0.0,3,1
@@ -243,7 +243,7 @@ Bahel (ECON),Bahel,ECON,3.26,13.0,0.33,6,0
 Bai (MSE),Bai,MSE,3.55,15.15,0.15,13,2
 Bailey (AHRM),Bailey,AHRM,3.52,29.0,0.0,2,0
 Bailey (AOE),Bailey,AOE,3.86,44.5,0.5,2,0
-Bailey (ECE),Bailey,ECE,3.75,25.14,0.57,7,0
+Bailey (ECE),Bailey,ECE,3.75,25.14,0.57,7,1
 Bailey (ENGL),Bailey,ENGL,3.89,19.0,0.5,2,0
 Bailey (PAPA),Bailey,PAPA,3.97,12.0,0.0,1,0
 Bailey (SPIA),Bailey,SPIA,3.51,8.2,0.0,5,0
@@ -253,10 +253,10 @@ Baird (GEOG),Baird,GEOG,3.63,42.33,0.33,9,1
 Baird (NR),Baird,NR,3.59,18.17,0.17,6,1
 Bak (PHIL),Bak,PHIL,2.93,31.0,1.0,5,0
 Bak (PHYS),Bak,PHYS,3.41,94.0,1.0,1,0
-Baker (AOE),Baker,AOE,3.03,43.43,3.14,7,0
+Baker (AOE),Baker,AOE,3.03,43.43,3.14,7,1
 Baker (AS),Baker,AS,3.92,80.12,0.0,8,0
 Baker (BIT),Baker,BIT,3.87,56.68,0.05,19,1
-Baker (ECE),Baker,ECE,2.75,19.67,1.17,6,0
+Baker (ECE),Baker,ECE,2.75,19.67,1.17,6,1
 Baker (ENGL),Baker,ENGL,3.68,20.23,0.38,73,8
 Baker (HIST),Baker,HIST,3.2,90.5,4.0,2,0
 Baker (PHS),Baker,PHS,3.91,29.75,0.0,8,0
@@ -266,7 +266,7 @@ Baldanza (EDEL),Baldanza,EDEL,4.0,10.0,0.0,3,0
 Baldwin (AFST),Baldwin,AFST,3.56,19.83,0.17,6,0
 Baldwin (WGS),Baldwin,WGS,3.85,8.6,0.0,5,0
 Balkew (MATH),Balkew,MATH,2.52,32.64,2.91,11,0
-Ball (ECE),Ball,ECE,2.74,67.95,5.7,20,0
+Ball (ECE),Ball,ECE,2.74,67.95,5.7,20,2
 Ball (ECON),Ball,ECON,3.06,13.4,0.0,5,1
 Ball (NEUR),Ball,NEUR,2.97,16.14,0.29,7,0
 Ball (PSYC),Ball,PSYC,4.0,5.5,0.0,2,0
@@ -286,7 +286,7 @@ Barbeau (HNFE),Barbeau,HNFE,3.69,15.25,0.0,4,0
 Barbish (ME),Barbish,ME,3.12,42.0,0.0,2,0
 Bargmann (CSES),Bargmann,CSES,3.57,17.0,0.25,4,1
 Barhorst (BIT),Barhorst,BIT,3.74,74.5,0.5,2,0
-Barkhi (ACIS),Barkhi,ACIS,3.38,14.07,0.15,27,0
+Barkhi (ACIS),Barkhi,ACIS,3.38,14.07,0.15,27,6
 Barksdale (EDCI),Barksdale,EDCI,4.0,12.0,0.0,2,0
 Barman (HIST),Barman,HIST,3.83,24.5,0.0,2,0
 Barman (SOC),Barman,SOC,3.72,11.5,0.0,2,0
@@ -321,7 +321,7 @@ Baudoin (AT),Baudoin,AT,2.65,27.0,0.0,3,0
 Baudoin (PPWS),Baudoin,PPWS,3.13,25.75,0.75,12,0
 Bauer (GER),Bauer,GER,3.0,11.83,0.33,12,4
 Baugher (CEE),Baugher,CEE,3.59,39.0,0.0,1,0
-Baumann (ECE),Baumann,ECE,2.95,32.35,0.95,20,0
+Baumann (ECE),Baumann,ECE,2.95,32.35,0.95,20,2
 Beal (MGT),Beal,MGT,3.69,14.92,0.0,13,2
 Beamish (RED),Beamish,RED,3.06,28.67,0.33,6,0
 Bean (ENGL),Bean,ENGL,3.16,18.54,0.42,24,0
@@ -343,7 +343,7 @@ Beckenhauer (HIST),Beckenhauer,HIST,3.32,31.0,0.5,2,0
 Beckenhauer (IS),Beckenhauer,IS,3.72,23.33,0.5,6,1
 Beckenhauer (PSCI),Beckenhauer,PSCI,3.57,10.17,0.0,6,1
 Beckenhauer (SOC),Beckenhauer,SOC,3.06,10.5,0.0,2,0
-Becker (ARCH),Becker,ARCH,3.74,15.72,0.17,18,5
+Becker (ARCH),Becker,ARCH,3.74,15.72,0.17,18,4
 Becker (CLA),Becker,CLA,3.42,14.33,0.67,3,0
 Becker (ENGL),Becker,ENGL,3.7,17.55,0.64,33,4
 Becker (GR),Becker,GR,3.84,9.65,0.06,17,2
@@ -405,7 +405,7 @@ Betsky (ARCH),Betsky,ARCH,3.55,27.67,0.56,9,0
 Betsky (IDS),Betsky,IDS,3.31,12.0,0.0,1,0
 Beverly (AAEC),Beverly,AAEC,2.86,67.5,2.5,2,0
 Bezy (EDEL),Bezy,EDEL,4.0,16.0,0.0,1,0
-Bhattacharjee (ACIS),Bhattacharjee,ACIS,3.35,22.14,0.0,22,1
+Bhattacharjee (ACIS),Bhattacharjee,ACIS,3.35,22.14,0.0,22,2
 Bhattacharjee (BIT),Bhattacharjee,BIT,3.98,12.0,0.0,1,0
 Bhattacharya (CS),Bhattacharya,CS,3.32,16.0,1.5,2,1
 Bhattacharya (ECE),Bhattacharya,ECE,3.32,37.0,1.0,1,1
@@ -492,7 +492,7 @@ Borggaard (MATH),Borggaard,MATH,3.55,11.45,0.09,11,0
 Borgoltz (AOE),Borgoltz,AOE,3.36,114.0,0.75,8,1
 Bork (LAR),Bork,LAR,3.08,12.5,0.0,2,0
 Boroujerdi (GIA),Boroujerdi,GIA,3.57,10.0,0.0,1,0
-Borowski (ART),Borowski,ART,3.69,13.26,0.11,19,4
+Borowski (ART),Borowski,ART,3.69,13.26,0.11,19,3
 Boroyevich (ECE),Boroyevich,ECE,3.38,18.0,0.0,1,0
 Bortner (CHE),Bortner,CHE,3.27,27.44,0.44,9,0
 Bortner (MACR),Bortner,MACR,4.0,7.0,0.0,1,1
@@ -537,7 +537,7 @@ Bradley (APSC),Bradley,APSC,3.72,45.0,0.5,2,0
 Bradley (ECON),Bradley,ECON,2.64,28.0,2.75,4,0
 Bradley (EDCI),Bradley,EDCI,3.99,14.8,0.0,10,2
 Bradley (MN),Bradley,MN,3.66,26.62,0.0,8,0
-Brand (CEE),Brand,CEE,3.48,14.59,0.08,37,9
+Brand (CEE),Brand,CEE,3.48,14.59,0.08,37,8
 Brand (EDCI),Brand,EDCI,3.97,11.32,0.0,19,1
 Brand (ME),Brand,ME,3.99,7.5,0.0,2,0
 Brandon (CEE),Brandon,CEE,3.37,18.0,0.0,14,0
@@ -552,7 +552,7 @@ Breaux (PSYC),Breaux,PSYC,3.8,19.14,0.0,7,0
 Bredenkamp (PAPA),Bredenkamp,PAPA,3.91,11.27,0.0,15,2
 Breitschmid (ARCH),Breitschmid,ARCH,3.63,18.9,0.1,20,4
 Breitwieser (WGS),Breitwieser,WGS,3.2,36.0,0.0,3,0
-Brem (PSYC),Brem,PSYC,3.67,14.62,0.12,8,1
+Brem (PSYC),Brem,PSYC,3.67,14.62,0.12,8,0
 Breslau (STS),Breslau,STS,3.66,19.56,0.0,9,2
 Bressin (UNIV),Bressin,UNIV,3.69,43.67,0.33,3,0
 Breuer (ECON),Breuer,ECON,3.54,16.62,0.88,8,1
@@ -603,7 +603,7 @@ Bruce (FST),Bruce,FST,3.49,24.67,0.33,6,2
 Bruce (PSYC),Bruce,PSYC,3.69,37.29,0.0,7,0
 Bruce (UNIV),Bruce,UNIV,3.51,50.25,0.0,4,0
 Brunner (FREC),Brunner,FREC,4.0,10.25,0.0,4,0
-Brunsma (SOC),Brunsma,SOC,3.63,80.25,1.88,8,0
+Brunsma (SOC),Brunsma,SOC,3.63,80.25,1.88,8,1
 Bryon (ARCH),Bryon,ARCH,3.46,14.46,0.07,28,5
 Buck (BIT),Buck,BIT,3.44,10.5,0.0,2,0
 Buckner Ducharme (CLA),Buckner Ducharme,CLA,3.18,21.5,0.75,4,2
@@ -616,7 +616,7 @@ Buehler (SPIA),Buehler,SPIA,3.82,29.0,0.0,1,0
 Buehler (UAP),Buehler,UAP,3.89,9.1,0.0,21,1
 Buehlmann (FREC),Buehlmann,FREC,3.73,18.0,0.0,1,0
 Buehlmann (SBIO),Buehlmann,SBIO,3.3,11.92,0.17,12,2
-Buehrer (ECE),Buehrer,ECE,3.49,20.55,0.36,11,0
+Buehrer (ECE),Buehrer,ECE,3.49,20.55,0.36,11,2
 Buengel (MGT),Buengel,MGT,3.21,32.77,0.27,30,4
 Bugh (HIST),Bugh,HIST,2.89,19.38,1.25,16,2
 Bugh (UH),Bugh,UH,4.0,32.0,0.0,1,0
@@ -677,7 +677,7 @@ Cai (MSE),Cai,MSE,3.36,33.15,0.31,13,6
 Calasanti (SOC),Calasanti,SOC,3.75,5.4,0.0,5,0
 Calder (PHS),Calder,PHS,3.79,23.29,0.0,7,0
 Calder (VM),Calder,VM,3.67,6.0,0.0,1,0
-Calderwood (PSYC),Calderwood,PSYC,3.83,29.6,0.1,10,1
+Calderwood (PSYC),Calderwood,PSYC,3.83,29.6,0.1,10,2
 Caldwell (MUS),Caldwell,MUS,3.52,16.5,0.33,6,0
 Callahan (CRIM),Callahan,CRIM,3.63,48.5,0.0,2,0
 Callahan (NR),Callahan,NR,3.84,11.0,0.0,2,0
@@ -746,7 +746,7 @@ Case (ESM),Case,ESM,3.54,13.9,0.3,10,0
 Case (IS),Case,IS,2.79,16.0,1.0,1,0
 Case (JUD),Case,JUD,3.18,14.0,0.0,2,0
 Case (RLCL),Case,RLCL,3.14,17.75,0.5,4,0
-Case Pease (HD),Case Pease,HD,3.64,27.92,0.17,12,3
+Case Pease (HD),Case Pease,HD,3.64,27.92,0.17,12,2
 Casey (CEE),Casey,CEE,2.84,39.0,0.0,2,5
 Casey (REAL),Casey,REAL,2.49,40.0,0.0,1,1
 Cash (EDEL),Cash,EDEL,3.97,13.0,0.0,14,2
@@ -769,7 +769,7 @@ Chakraborty (ENGE),Chakraborty,ENGE,3.53,32.5,0.5,2,0
 Chakravarti (MKTG),Chakravarti,MKTG,3.7,5.0,0.0,2,1
 Chambers (ENGE),Chambers,ENGE,3.5,56.25,0.19,32,2
 Chambraud (HIST),Chambraud,HIST,3.67,47.0,0.33,3,1
-Chan (ECON),Chan,ECON,3.16,36.0,0.0,1,0
+Chan (ECON),Chan,ECON,3.16,36.0,0.0,1,1
 Chandler-Smith (AFST),Chandler-Smith,AFST,3.26,7.33,0.0,3,0
 Chandler-Smith (ENGL),Chandler-Smith,ENGL,3.49,10.91,0.18,11,1
 Chang (CHN),Chang,CHN,3.64,14.06,0.2,35,4
@@ -819,11 +819,11 @@ Chinn (MGT),Chinn,MGT,2.52,63.0,1.0,1,0
 Chittenden (AHRM),Chittenden,AHRM,3.44,58.0,0.0,1,0
 Cho (CS),Cho,CS,3.57,9.57,0.0,7,0
 Cho (ECE),Cho,ECE,3.16,7.0,0.0,2,0
-Cho (FMD),Cho,FMD,3.6,28.25,0.12,8,0
+Cho (FMD),Cho,FMD,3.6,28.25,0.12,8,1
 Cho (MATH),Cho,MATH,2.67,21.5,4.0,4,0
 Cho (PHYS),Cho,PHYS,3.41,94.0,1.0,1,0
 Choi (AOE),Choi,AOE,3.43,17.5,0.93,14,0
-Choi (ART),Choi,ART,3.23,13.27,0.09,11,1
+Choi (ART),Choi,ART,3.23,13.27,0.09,11,2
 Choi (BIT),Choi,BIT,2.74,59.0,1.0,1,0
 Choi (HD),Choi,HD,3.71,47.48,0.62,21,2
 Choi (IDS),Choi,IDS,3.8,19.0,0.0,5,2
@@ -852,7 +852,7 @@ Church (STAT),Church,STAT,3.14,40.0,2.0,1,0
 Cimini (BIOL),Cimini,BIOL,3.09,56.2,2.4,5,1
 Cimini (BMES),Cimini,BMES,4.0,16.0,0.0,1,0
 Ciparis (NR),Ciparis,NR,3.51,16.38,0.0,13,0
-Ciupe (MATH),Ciupe,MATH,3.58,15.8,0.5,10,2
+Ciupe (MATH),Ciupe,MATH,3.58,15.8,0.5,10,1
 Ciupe (SYSB),Ciupe,SYSB,3.75,9.5,0.0,2,0
 Cladis (FST),Cladis,FST,2.76,9.5,0.0,2,2
 Claflin (ALCE),Claflin,ALCE,3.58,18.75,0.0,4,0
@@ -878,7 +878,7 @@ Clements (LAR),Clements,LAR,3.39,14.44,0.31,16,3
 Clements (REAL),Clements,REAL,3.57,51.0,0.38,8,5
 Clements (UAP),Clements,UAP,2.87,29.0,1.0,1,0
 Clemons (CMDA),Clemons,CMDA,3.12,51.0,1.0,1,0
-Clemons (MATH),Clemons,MATH,2.81,54.69,3.83,29,2
+Clemons (MATH),Clemons,MATH,2.81,54.69,3.83,29,3
 Clifton (CRIM),Clifton,CRIM,3.84,41.6,0.2,5,0
 Clifton (SOC),Clifton,SOC,3.68,121.8,0.6,5,0
 Cline (ALS),Cline,ALS,2.99,25.95,0.74,19,0
@@ -889,7 +889,7 @@ Clubb (UNIV),Clubb,UNIV,3.83,38.5,0.0,2,0
 Clum (PSYC),Clum,PSYC,3.65,34.0,0.33,6,0
 Coartney (ALCE),Coartney,ALCE,3.6,29.5,0.0,2,0
 Coates (FREC),Coates,FREC,3.73,25.78,0.11,9,0
-Cobabe (ACIS),Cobabe,ACIS,2.88,25.78,2.28,18,0
+Cobabe (ACIS),Cobabe,ACIS,2.88,25.78,2.28,18,3
 Cobourn (AAEC),Cobourn,AAEC,3.34,9.5,0.0,2,0
 Cobourn (FREC),Cobourn,FREC,3.67,40.56,0.0,9,0
 Cobourn (WATR),Cobourn,WATR,3.94,5.0,0.0,1,0
@@ -916,7 +916,7 @@ Collver (EDCI),Collver,EDCI,3.63,7.0,0.0,1,0
 Colombo (ENGL),Colombo,ENGL,3.27,18.38,0.38,8,4
 Combiths (ENGL),Combiths,ENGL,3.47,19.31,0.12,16,0
 Commer (ENGL),Commer,ENGL,3.86,16.2,0.0,15,1
-Compton (ACIS),Compton,ACIS,3.13,15.6,0.4,25,0
+Compton (ACIS),Compton,ACIS,3.13,15.6,0.4,25,6
 Conaway (ENGL),Conaway,ENGL,3.53,18.52,0.4,40,4
 Concannon (ART),Concannon,ART,3.6,10.33,0.67,3,0
 Connelly (MSE),Connelly,MSE,3.68,5.0,0.0,1,0
@@ -931,7 +931,7 @@ Cook (PHS),Cook,PHS,3.89,40.67,0.0,3,1
 Cook (VM),Cook,VM,4.0,6.0,0.0,1,0
 Cooke (HD),Cooke,HD,3.49,63.0,0.67,3,0
 Cooley (BIOL),Cooley,BIOL,3.67,42.0,0.0,1,0
-Cooper (ECE),Cooper,ECE,3.35,20.96,1.37,112,0
+Cooper (ECE),Cooper,ECE,3.35,20.96,1.37,112,2
 Cooper (PSYC),Cooper,PSYC,3.93,14.22,0.0,9,0
 Cooper (STAT),Cooper,STAT,2.82,39.0,1.0,1,0
 Copeland (AINS),Copeland,AINS,3.55,14.89,0.11,9,1
@@ -967,7 +967,7 @@ Coupey (MKTG),Coupey,MKTG,3.35,24.75,0.0,8,0
 Courtney (MGT),Courtney,MGT,3.08,100.75,6.75,4,1
 Courtney (PSYC),Courtney,PSYC,4.0,11.0,0.0,1,0
 Cousin (AS),Cousin,AS,3.71,21.67,0.07,15,4
-Coutier-Delgosha (AOE),Coutier-Delgosha,AOE,3.85,18.31,0.08,88,11
+Coutier-Delgosha (AOE),Coutier-Delgosha,AOE,3.85,18.31,0.08,88,12
 Couvillon (ENT),Couvillon,ENT,3.69,13.14,0.0,7,1
 Covington (ENGL),Covington,ENGL,3.58,22.5,0.0,2,0
 Cowan (MUS),Cowan,MUS,3.89,28.33,0.0,3,1
@@ -979,7 +979,7 @@ Cox (HD),Cox,HD,3.75,74.0,0.33,3,0
 Cox (HNFE),Cox,HNFE,3.88,26.65,0.04,23,3
 Cox (MGT),Cox,MGT,3.71,20.73,0.09,11,0
 Coyne (ENGL),Coyne,ENGL,3.36,17.67,0.67,6,0
-Cozort (ENGL),Cozort,ENGL,3.72,16.43,1.14,7,2
+Cozort (ENGL),Cozort,ENGL,3.72,16.43,1.14,7,0
 Crabbe (MKTG),Crabbe,MKTG,3.6,52.0,0.0,11,0
 Crafton (MUS),Crafton,MUS,3.92,9.23,0.05,22,2
 Craig (ENGL),Craig,ENGL,3.48,18.09,0.45,22,4
@@ -1028,7 +1028,7 @@ Daniels (ENSC),Daniels,ENSC,2.91,23.0,0.5,4,0
 Daniels (GEOG),Daniels,GEOG,3.1,18.5,0.5,2,0
 Daniels (GEOS),Daniels,GEOS,3.06,14.5,0.0,2,0
 Daniloski (MKTG),Daniloski,MKTG,3.72,58.75,0.0,4,0
-Das (ECON),Das,ECON,2.99,31.0,2.0,1,0
+Das (ECON),Das,ECON,2.99,31.0,2.0,1,1
 Das (ENGE),Das,ENGE,3.6,29.5,0.5,2,0
 Datta (CMDA),Datta,CMDA,3.84,50.33,0.0,3,1
 Datta (CS),Datta,CS,3.8,22.0,0.0,2,0
@@ -1149,7 +1149,7 @@ Dixit (PSCI),Dixit,PSCI,3.76,16.33,0.13,15,2
 Do (STAT),Do,STAT,4.0,8.0,0.0,1,0
 Doak (AT),Doak,AT,2.95,12.54,0.12,26,0
 Doan (ARCH),Doan,ARCH,3.81,25.89,0.05,37,4
-Doan (ECE),Doan,ECE,3.46,28.14,1.43,7,0
+Doan (ECE),Doan,ECE,3.46,28.14,1.43,7,1
 Doan (ENGL),Doan,ENGL,3.86,20.0,0.0,2,0
 Docef (SPAN),Docef,SPAN,3.49,24.5,0.0,2,0
 Dodi (ITAL),Dodi,ITAL,3.96,16.0,0.0,2,3
@@ -1202,9 +1202,9 @@ Ducker (CHE),Ducker,CHE,3.11,47.33,0.33,9,1
 Duer (ART),Duer,ART,3.73,13.05,0.1,21,4
 Duer (UH),Duer,UH,3.9,6.0,1.0,1,0
 Duerksen (CSES),Duerksen,CSES,2.91,27.0,5.0,1,0
-Duetsch (HTM),Duetsch,HTM,3.47,27.71,0.33,21,3
+Duetsch (HTM),Duetsch,HTM,3.47,27.71,0.33,21,4
 Dufault (MS),Dufault,MS,3.8,32.25,0.12,8,5
-Duffield (ART),Duffield,ART,3.68,16.59,0.18,22,4
+Duffield (ART),Duffield,ART,3.68,16.59,0.18,22,3
 Dufour (HIST),Dufour,HIST,3.77,28.53,0.0,15,1
 Dugas (ARCH),Dugas,ARCH,3.78,14.75,0.04,24,5
 Dugas (IDS),Dugas,IDS,3.56,11.0,0.0,1,0
@@ -1218,7 +1218,7 @@ Duma (BMSP),Duma,BMSP,3.89,60.0,0.0,1,0
 Duma (ENT),Duma,ENT,3.91,5.0,0.0,1,0
 Duma (HNFE),Duma,HNFE,4.0,5.0,0.0,1,0
 Dunay (ARCH),Dunay,ARCH,3.68,16.61,0.23,31,0
-Duncan (APSC),Duncan,APSC,3.77,7.83,0.0,6,4
+Duncan (APSC),Duncan,APSC,3.77,7.83,0.0,6,5
 Duncan (CMST),Duncan,CMST,4.0,7.0,0.0,1,0
 Duncan (COMM),Duncan,COMM,3.35,34.4,0.1,10,0
 Duncan (GEOS),Duncan,GEOS,3.42,18.03,0.07,29,3
@@ -1228,7 +1228,7 @@ Duncan Lane (HNFE),Duncan Lane,HNFE,4.0,25.0,0.0,1,0
 Dunlap (CS),Dunlap,CS,3.8,77.83,0.38,24,3
 Dunlap (RUS),Dunlap,RUS,3.07,10.0,1.0,3,0
 Dunn (HNFE),Dunn,HNFE,3.98,18.17,0.0,6,2
-Dunning (ECE),Dunning,ECE,3.02,81.86,3.14,7,0
+Dunning (ECE),Dunning,ECE,3.02,81.86,3.14,7,1
 Dunsmore (PSYC),Dunsmore,PSYC,3.72,14.5,0.5,2,0
 Dunston (MUS),Dunston,MUS,3.43,9.44,0.24,25,2
 Dupuy (GIA),Dupuy,GIA,3.45,11.0,0.0,1,0
@@ -1250,7 +1250,7 @@ Earle (HIST),Earle,HIST,3.86,7.5,0.5,2,0
 Earle (STS),Earle,STS,3.64,18.0,0.25,4,0
 Earnest (ISE),Earnest,ISE,3.58,86.0,0.0,2,1
 Easter (MUS),Easter,MUS,3.66,59.42,0.79,19,0
-Easterwood (ACIS),Easterwood,ACIS,3.06,107.85,5.08,26,0
+Easterwood (ACIS),Easterwood,ACIS,3.06,107.85,5.08,26,2
 Easterwood (FIN),Easterwood,FIN,2.92,28.12,1.82,17,2
 Easton (BSE),Easton,BSE,3.85,9.0,0.0,8,0
 Eastwood (BIOL),Eastwood,BIOL,3.78,17.67,0.0,12,4
@@ -1311,7 +1311,7 @@ Elgewely (ITDS),Elgewely,ITDS,3.4,28.27,0.09,11,2
 Elhamod (CS),Elhamod,CS,3.77,18.0,0.0,1,0
 Elhauge (ENGL),Elhauge,ENGL,3.85,17.67,0.0,3,0
 Ellerbrock (AAEC),Ellerbrock,AAEC,2.68,214.6,10.25,20,2
-Ellingson (ECE),Ellingson,ECE,3.02,16.85,1.08,13,0
+Ellingson (ECE),Ellingson,ECE,3.02,16.85,1.08,13,1
 Ellington (EDCO),Ellington,EDCO,4.0,14.67,0.0,6,0
 Ellis (CS),Ellis,CS,3.42,91.67,4.14,21,1
 Ellis (ESM),Ellis,ESM,2.6,6.0,1.0,1,0
@@ -1330,7 +1330,7 @@ Emebo (CS),Emebo,CS,3.2,72.25,1.75,8,2
 Emiroglu (ITDS),Emiroglu,ITDS,3.47,18.0,0.0,1,0
 Emlinger (AAEC),Emlinger,AAEC,3.77,39.5,0.25,4,0
 Emmett (ENGR),Emmett,ENGR,3.61,11.0,0.0,1,0
-Emmons (ARCH),Emmons,ARCH,3.71,11.38,0.08,13,4
+Emmons (ARCH),Emmons,ARCH,3.71,11.38,0.08,13,3
 Emori (BIOL),Emori,BIOL,3.05,142.32,4.68,25,2
 Emori (NANO),Emori,NANO,3.45,24.67,0.33,6,1
 Emori (PHYS),Emori,PHYS,2.97,34.86,0.57,7,0
@@ -1439,7 +1439,7 @@ Ferrill (HD),Ferrill,HD,3.96,7.25,0.0,4,0
 Ferris (ME),Ferris,ME,3.51,49.83,0.83,6,0
 Ferro (ISE),Ferro,ISE,3.66,29.0,1.0,1,0
 Fetter (UNIV),Fetter,UNIV,3.35,17.5,0.25,4,0
-Feuerbacher (APSC),Feuerbacher,APSC,3.65,23.03,0.0,39,5
+Feuerbacher (APSC),Feuerbacher,APSC,3.65,23.03,0.0,39,8
 Feuerstein (ARCH),Feuerstein,ARCH,3.62,8.57,0.0,14,0
 Feuerstein (NR),Feuerstein,NR,3.95,12.0,0.0,1,0
 Figg (CHEM),Figg,CHEM,3.15,16.67,0.67,3,1
@@ -1568,7 +1568,7 @@ Galappaththi (LDRS),Galappaththi,LDRS,4.0,5.0,0.0,1,0
 Galappaththi (NR),Galappaththi,NR,4.0,5.0,0.0,1,1
 Galbraith (CSES),Galbraith,CSES,3.71,15.27,0.13,15,2
 Galbraith (ENSC),Galbraith,ENSC,3.66,18.29,0.0,7,0
-Galer (ACIS),Galer,ACIS,3.11,39.05,1.4,20,0
+Galer (ACIS),Galer,ACIS,3.11,39.05,1.4,20,2
 Galford (RED),Galford,RED,3.57,20.06,0.0,17,2
 Galinaitis (MATH),Galinaitis,MATH,2.6,45.25,2.62,8,0
 Galitz (ESM),Galitz,ESM,3.1,62.71,2.25,24,2
@@ -1602,7 +1602,7 @@ Gardezi (SPIA),Gardezi,SPIA,3.86,6.0,0.0,2,0
 Gardezi (STAT),Gardezi,STAT,3.66,9.0,0.0,2,0
 Gardner (ENGL),Gardner,ENGL,3.57,18.88,0.65,51,4
 Gardner (HD),Gardner,HD,3.72,31.5,0.31,16,1
-Garner (ACIS),Garner,ACIS,3.24,20.18,0.52,40,0
+Garner (ACIS),Garner,ACIS,3.24,20.18,0.52,40,5
 Garretson (ENGL),Garretson,ENGL,3.67,17.6,0.2,5,0
 Garrison (EDCI),Garrison,EDCI,4.0,12.83,0.0,6,0
 Garrison (MN),Garrison,MN,3.63,26.17,0.0,6,0
@@ -1613,7 +1613,7 @@ Gaskill (AHRM),Gaskill,AHRM,3.9,41.0,0.0,1,0
 Gaskill (FMD),Gaskill,FMD,3.17,32.0,0.67,3,0
 Gates (MUS),Gates,MUS,4.0,8.0,0.0,1,0
 Gates (PAPA),Gates,PAPA,3.85,9.67,0.0,3,0
-Gatzke (ACIS),Gatzke,ACIS,3.08,31.25,0.75,20,0
+Gatzke (ACIS),Gatzke,ACIS,3.08,31.25,0.75,20,2
 Gautam (CS),Gautam,CS,3.07,23.0,1.0,1,0
 Gaylord (ACIS),Gaylord,ACIS,4.0,8.0,0.0,1,0
 Gaylord (BIT),Gaylord,BIT,3.87,59.0,0.0,1,0
@@ -1672,7 +1672,7 @@ Gillian (HNFE),Gillian,HNFE,4.0,14.33,0.0,3,0
 Gilliland (ENGR),Gilliland,ENGR,3.42,61.0,2.0,1,0
 Gilliland (MINE),Gilliland,MINE,3.7,22.83,0.0,6,0
 Giovanni (ENGL),Giovanni,ENGL,3.96,19.5,0.0,8,0
-Gipe (ARCH),Gipe,ARCH,3.65,32.8,0.6,10,6
+Gipe (ARCH),Gipe,ARCH,3.65,32.8,0.6,10,7
 Gipe (IDS),Gipe,IDS,4.0,7.0,0.0,1,0
 Girmes-Grieco (HNFE),Girmes-Grieco,HNFE,3.86,35.02,0.08,51,6
 Gitre (HIST),Gitre,HIST,3.54,22.6,0.25,20,2
@@ -1851,7 +1851,7 @@ Halpin (AFST),Halpin,AFST,3.33,31.75,0.25,4,1
 Halpin (CRIM),Halpin,CRIM,3.49,40.0,2.0,1,0
 Halpin (HIST),Halpin,HIST,3.45,18.6,0.1,10,2
 Hamed (FIW),Hamed,FIW,3.51,38.79,0.7,33,5
-Hamilton (ACIS),Hamilton,ACIS,2.92,46.0,4.5,2,0
+Hamilton (ACIS),Hamilton,ACIS,2.92,46.0,4.5,2,1
 Hamilton (FST),Hamilton,FST,3.9,10.0,0.0,1,0
 Hammer (ART),Hammer,ART,3.86,18.0,0.0,1,0
 Hammer (MATH),Hammer,MATH,2.82,29.35,2.42,43,4
@@ -1862,7 +1862,7 @@ Hamming (ART),Hamming,ART,3.58,16.67,0.33,3,0
 Hamming (CAUS),Hamming,CAUS,3.88,48.0,0.0,1,0
 Hamming (HIST),Hamming,HIST,3.94,18.0,0.0,1,0
 Hamouda (CS),Hamouda,CS,3.73,64.11,0.89,9,2
-Han (ECE),Han,ECE,3.01,33.15,1.03,33,0
+Han (ECE),Han,ECE,3.01,33.15,1.03,33,2
 Han (MKTG),Han,MKTG,3.62,18.0,0.0,1,0
 Hancock (AHRM),Hancock,AHRM,3.63,33.5,0.0,4,0
 Hancock (CEE),Hancock,CEE,3.63,27.77,0.15,13,1
@@ -1887,7 +1887,7 @@ Hansen (PPWS),Hansen,PPWS,3.67,6.67,0.0,3,0
 Hanzly (BSE),Hanzly,BSE,3.57,19.0,0.0,1,0
 Haqq (CS),Haqq,CS,3.16,147.5,4.75,8,0
 Harden (HNFE),Harden,HNFE,3.92,7.0,0.0,3,1
-Harding (ACIS),Harding,ACIS,3.37,24.6,0.67,15,0
+Harding (ACIS),Harding,ACIS,3.37,24.6,0.67,15,3
 Harding (AOE),Harding,AOE,2.57,20.0,2.0,1,0
 Hardwig (DANC),Hardwig,DANC,3.78,18.83,0.25,12,2
 Hardwig (HNFE),Hardwig,HNFE,3.73,8.0,0.0,3,0
@@ -1900,7 +1900,7 @@ Harjung (ENGL),Harjung,ENGL,3.56,18.0,0.0,4,0
 Harmon (ENGR),Harmon,ENGR,3.8,5.0,0.0,1,0
 Harmon (ISE),Harmon,ISE,3.72,8.8,0.0,10,0
 Harrell (LAR),Harrell,LAR,2.75,17.0,0.0,1,0
-Harris (ECE),Harris,ECE,3.44,36.0,0.0,1,0
+Harris (ECE),Harris,ECE,3.44,36.0,0.0,1,1
 Harris (FIN),Harris,FIN,2.87,38.0,1.0,3,0
 Harris (IS),Harris,IS,3.08,23.25,1.0,4,1
 Harris (LDRS),Harris,LDRS,3.71,16.0,0.0,1,0
@@ -1951,7 +1951,7 @@ Hawthorne (EDHE),Hawthorne,EDHE,4.0,10.0,0.0,1,0
 Hay (APSC),Hay,APSC,3.96,24.0,0.0,1,0
 Hay (CS),Hay,CS,3.89,33.0,0.0,1,0
 Hays (LAR),Hays,LAR,3.4,5.0,0.0,1,0
-He (AAEC),He,AAEC,3.58,33.0,0.0,2,2
+He (AAEC),He,AAEC,3.58,33.0,0.0,2,1
 He (ARCH),He,ARCH,3.43,16.0,0.14,7,0
 He (ART),He,ART,3.61,7.0,0.0,1,0
 He (BMVS),He,BMVS,4.0,5.33,0.0,3,0
@@ -1969,7 +1969,7 @@ Hedin (BIOL),Hedin,BIOL,2.5,88.0,4.0,1,0
 Hedrick (HNFE),Hedrick,HNFE,3.82,21.23,0.0,22,2
 Heflin (STS),Heflin,STS,3.94,17.5,0.0,22,2
 Hefny (HTM),Hefny,HTM,3.46,34.0,0.0,2,0
-Heiderscheit (APSC),Heiderscheit,APSC,3.51,25.62,0.0,8,1
+Heiderscheit (APSC),Heiderscheit,APSC,3.51,25.62,0.0,8,2
 Heidt (UAP),Heidt,UAP,3.9,53.0,1.0,1,0
 Heilker (GEOG),Heilker,GEOG,3.57,28.0,1.0,1,0
 Heilker (PSYC),Heilker,PSYC,4.0,8.0,0.0,1,0
@@ -2136,7 +2136,7 @@ Howell (JMC),Howell,JMC,3.2,11.5,0.0,4,0
 Howell (PSCI),Howell,PSCI,3.39,27.8,0.4,5,0
 Howell (TBMH),Howell,TBMH,3.9,17.0,0.0,3,0
 Hoyt (BIOL),Hoyt,BIOL,3.87,35.25,0.25,4,1
-Hsiao (ECE),Hsiao,ECE,3.14,45.31,1.08,13,0
+Hsiao (ECE),Hsiao,ECE,3.14,45.31,1.08,13,1
 Hsu (AHRM),Hsu,AHRM,3.18,130.0,1.0,1,0
 Hsu (BIOL),Hsu,BIOL,3.57,50.6,3.4,5,1
 Hsu (MKTG),Hsu,MKTG,3.5,46.15,0.23,13,0
@@ -2272,7 +2272,7 @@ Jensen (SYSB),Jensen,SYSB,3.67,12.75,0.25,4,0
 Jeon (ISE),Jeon,ISE,3.59,37.84,0.05,19,1
 Jere (ECE),Jere,ECE,3.58,20.0,0.0,1,0
 Jernegan (ENGL),Jernegan,ENGL,3.66,17.43,0.43,7,0
-Jesmer (FIW),Jesmer,FIW,3.12,15.11,0.56,9,0
+Jesmer (FIW),Jesmer,FIW,3.12,15.11,0.56,9,1
 Jeter (AT),Jeter,AT,2.8,23.47,0.13,15,2
 Jewitt (ART),Jewitt,ART,3.54,27.33,0.17,18,2
 Jewitt (COMM),Jewitt,COMM,2.57,6.0,0.0,1,0
@@ -2296,7 +2296,7 @@ Jin (ECE),Jin,ECE,3.49,25.67,0.0,6,0
 Jin (ISE),Jin,ISE,3.78,49.14,0.0,7,0
 Jin (MGT),Jin,MGT,3.65,13.0,0.0,1,0
 Jin (STAT),Jin,STAT,3.08,106.0,1.0,1,0
-Joerger (AOE),Joerger,AOE,2.94,59.64,0.82,11,0
+Joerger (AOE),Joerger,AOE,2.94,59.64,0.82,11,2
 Joh (UAP),Joh,UAP,3.99,9.75,0.0,4,0
 Johnsen (FIN),Johnsen,FIN,2.92,71.4,1.4,5,0
 Johnson (ACIS),Johnson,ACIS,3.09,31.36,0.45,11,0
@@ -2383,7 +2383,7 @@ Kang (HD),Kang,HD,3.15,68.33,1.33,3,0
 Kang (HTM),Kang,HTM,3.47,52.0,0.67,9,0
 Kannan (ISE),Kannan,ISE,3.62,63.14,0.14,7,1
 Kapania (AOE),Kapania,AOE,3.29,42.0,1.18,11,1
-Kaplan (PHYS),Kaplan,PHYS,2.88,16.43,0.43,7,0
+Kaplan (PHYS),Kaplan,PHYS,2.88,16.43,0.43,7,4
 Karagulle (ENGL),Karagulle,ENGL,3.34,13.5,0.0,2,0
 Karcher (MATH),Karcher,MATH,3.22,32.33,0.58,12,1
 Kardos (HORT),Kardos,HORT,3.6,24.9,0.36,39,4
@@ -2485,7 +2485,7 @@ Kimbrough (NEUR),Kimbrough,NEUR,3.6,27.47,0.18,17,0
 Kimmel (NR),Kimmel,NR,3.95,12.25,0.0,12,1
 Kimmel (PHYS),Kimmel,PHYS,3.49,186.0,2.0,1,0
 Kincade (FMD),Kincade,FMD,3.8,23.39,0.0,18,2
-Kinder (APS),Kinder,APS,3.13,8.0,0.0,1,1
+Kinder (APS),Kinder,APS,3.13,8.0,0.0,1,0
 Kinder (BC),Kinder,BC,3.26,34.33,0.33,3,0
 Kinder (DASC),Kinder,DASC,4.0,7.0,0.0,1,0
 Kinder (ENGL),Kinder,ENGL,3.39,26.88,0.3,40,4
@@ -2521,7 +2521,7 @@ Kleiner (ISE),Kleiner,ISE,3.73,63.57,0.29,7,0
 Klemba (BCHM),Klemba,BCHM,3.4,124.4,5.2,5,2
 Klemba (PSYC),Klemba,PSYC,4.0,8.0,0.0,1,0
 Kline (SBIO),Kline,SBIO,3.6,9.82,0.09,11,1
-Klock (FIN),Klock,FIN,2.8,29.64,2.11,28,0
+Klock (FIN),Klock,FIN,2.8,29.64,2.11,28,3
 Klopf (CSES),Klopf,CSES,3.14,10.5,0.0,2,0
 Klopf (ENSC),Klopf,ENSC,3.03,15.0,0.0,2,0
 Kluck (MUS),Kluck,MUS,3.54,13.57,0.29,7,0
@@ -2538,7 +2538,7 @@ Kniola (EDRE),Kniola,EDRE,3.91,18.17,0.0,24,3
 Knoblauch (ART),Knoblauch,ART,3.41,86.64,2.55,11,0
 Knocke (CEE),Knocke,CEE,3.43,11.88,0.12,16,3
 Knowlton (APSC),Knowlton,APSC,3.71,28.33,0.5,6,1
-Knowlton (DASC),Knowlton,DASC,3.91,13.39,0.05,41,2
+Knowlton (DASC),Knowlton,DASC,3.91,13.39,0.05,41,3
 Knox (UH),Knox,UH,3.66,16.67,0.33,6,1
 Koc (MATH),Koc,MATH,2.47,27.0,6.33,3,0
 Koch (ASPT),Koch,ASPT,3.86,5.5,0.0,2,0
@@ -2550,7 +2550,7 @@ Koch (PSCI),Koch,PSCI,3.19,25.83,0.67,12,2
 Kochersberger (ME),Kochersberger,ME,3.87,9.57,0.0,7,0
 Koelling (CEM),Koelling,CEM,2.87,70.67,1.0,3,0
 Koermer (MINE),Koermer,MINE,3.19,11.0,0.0,4,0
-Kogan (ACIS),Kogan,ACIS,3.33,60.91,4.27,11,0
+Kogan (ACIS),Kogan,ACIS,3.33,60.91,4.27,11,6
 Kohl (AT),Kohl,AT,3.26,19.92,0.14,37,4
 Kojima (BIOL),Kojima,BIOL,3.34,55.71,0.86,7,0
 Kokushkin (MATH),Kokushkin,MATH,2.33,30.71,4.57,7,0
@@ -2561,13 +2561,13 @@ Komelski (HD),Komelski,HD,3.67,74.71,0.45,31,3
 Komelski (HNFE),Komelski,HNFE,4.0,12.0,0.0,1,0
 Komelski (PHS),Komelski,PHS,4.0,11.0,0.0,1,0
 Komelski (PSYC),Komelski,PSYC,4.0,11.0,0.0,1,0
-Komendera (ME),Komendera,ME,3.9,11.1,0.2,10,2
+Komendera (ME),Komendera,ME,3.9,11.1,0.2,10,0
 Kong (ISE),Kong,ISE,3.71,27.12,0.02,43,0
 Koopman (HIST),Koopman,HIST,3.42,25.0,0.0,2,0
 Koopman (SOC),Koopman,SOC,2.86,5.0,0.0,1,0
 Koopman (STS),Koopman,STS,3.7,14.5,0.0,2,0
 Korkuti (ARCH),Korkuti,ARCH,3.84,12.77,0.0,13,0
-Korneva (BMES),Korneva,BMES,3.33,8.0,1.0,1,0
+Korneva (BMES),Korneva,BMES,3.33,8.0,1.0,1,1
 Kotut (CS),Kotut,CS,3.28,72.33,2.83,6,0
 Koutromanos (CEE),Koutromanos,CEE,3.28,26.75,0.42,12,1
 Kovach (BDS),Kovach,BDS,3.33,43.43,0.86,7,0
@@ -2609,7 +2609,7 @@ Kuypers (COMM),Kuypers,COMM,2.79,23.4,0.8,5,0
 Kuypers (JMC),Kuypers,JMC,2.66,13.0,0.0,2,2
 Kuypers (PR),Kuypers,PR,3.18,11.0,0.0,1,0
 Kuypers (PSCI),Kuypers,PSCI,2.59,17.67,0.67,3,1
-Kwaramba (ISE),Kwaramba,ISE,3.66,88.94,1.31,16,2
+Kwaramba (ISE),Kwaramba,ISE,3.66,88.94,1.31,16,3
 Kwon (EDCI),Kwon,EDCI,4.0,5.0,0.0,2,0
 L'Afflitto (ISE),L'Afflitto,ISE,3.48,9.88,1.0,8,2
 L'Afflitto (ME),L'Afflitto,ME,3.81,9.0,0.0,1,1
@@ -2621,7 +2621,7 @@ LaRiviere (SPIA),LaRiviere,SPIA,3.97,9.5,0.0,4,0
 Labuski (STS),Labuski,STS,3.82,9.5,0.0,2,1
 Labuski (WGS),Labuski,WGS,3.75,19.4,0.1,10,1
 Lackey (EDCO),Lackey,EDCO,3.86,19.67,0.33,3,0
-Lacoste (ACIS),Lacoste,ACIS,3.21,172.5,10.28,18,0
+Lacoste (ACIS),Lacoste,ACIS,3.21,172.5,10.28,18,1
 Lael (HD),Lael,HD,3.21,69.53,1.32,19,3
 Lahne (FST),Lahne,FST,3.76,17.2,0.0,5,0
 Lahondere (BCHM),Lahondere,BCHM,3.34,20.5,0.0,4,2
@@ -2688,7 +2688,7 @@ Lee (CHE),Lee,CHE,4.0,16.0,0.5,2,0
 Lee (CS),Lee,CS,3.7,32.23,0.69,13,0
 Lee (ECE),Lee,ECE,3.67,10.0,0.0,1,0
 Lee (ECON),Lee,ECON,2.7,123.0,6.0,1,0
-Lee (ENGE),Lee,ENGE,3.6,51.17,0.0,12,0
+Lee (ENGE),Lee,ENGE,3.6,51.17,0.0,12,3
 Lee (FMD),Lee,FMD,3.69,22.77,0.0,13,0
 Lee (GEOG),Lee,GEOG,3.57,28.0,1.0,1,0
 Lee (GRAD),Lee,GRAD,3.97,18.0,0.0,7,0
@@ -2720,7 +2720,7 @@ Lesko (ME),Lesko,ME,3.72,17.0,0.0,1,0
 Lester (ECE),Lester,ECE,3.47,12.0,1.0,1,0
 Letona Bolivar (MATH),Letona Bolivar,MATH,2.62,31.83,3.44,36,1
 Letona Bolivar (PHYS),Letona Bolivar,PHYS,3.41,94.0,1.0,1,0
-Lever (ARCH),Lever,ARCH,3.64,17.38,0.25,8,0
+Lever (ARCH),Lever,ARCH,3.64,17.38,0.25,8,1
 Levinson (GIA),Levinson,GIA,3.51,11.45,0.0,11,1
 Levinson (PSCI),Levinson,PSCI,3.42,34.67,0.67,3,0
 Levinson (SPIA),Levinson,SPIA,4.0,6.0,0.0,1,0
@@ -2763,9 +2763,9 @@ Lin (CHEM),Lin,CHEM,2.76,17.71,2.93,14,0
 Lin (CS),Lin,CS,3.8,5.0,0.0,1,0
 Lin (ECE),Lin,ECE,3.96,8.0,0.0,1,1
 Lin (ECON),Lin,ECON,3.01,21.29,0.79,14,1
-Lin (FIN),Lin,FIN,2.97,31.17,0.17,6,1
+Lin (FIN),Lin,FIN,2.97,31.17,0.17,6,0
 Lin (MATH),Lin,MATH,3.02,21.23,1.31,13,0
-Lin (PHYS),Lin,PHYS,2.87,30.27,0.92,122,12
+Lin (PHYS),Lin,PHYS,2.87,30.27,0.92,122,16
 Lind (ECE),Lind,ECE,3.4,49.42,0.17,12,0
 Lind (PHIL),Lind,PHIL,3.37,19.0,1.2,5,2
 Lindeman (ART),Lindeman,ART,3.53,30.0,0.0,1,0
@@ -2773,7 +2773,7 @@ Lindgren (ENGL),Lindgren,ENGL,3.7,15.65,0.65,17,2
 Lindsay (BIOL),Lindsay,BIOL,2.52,54.0,1.0,2,0
 Lineberry (FIN),Lineberry,FIN,3.16,31.92,0.33,12,3
 Link (PHYS),Link,PHYS,3.36,19.7,0.3,10,2
-Linn (ARCH),Linn,ARCH,3.32,5.5,0.0,2,1
+Linn (ARCH),Linn,ARCH,3.32,5.5,0.0,2,4
 Linnell (MATH),Linnell,MATH,3.31,12.5,0.5,8,0
 Linzey (FIW),Linzey,FIW,3.26,18.0,1.0,1,0
 Lipscomb (BIOL),Lipscomb,BIOL,2.95,159.15,4.96,26,4
@@ -2808,7 +2808,7 @@ Loehr (MATH),Loehr,MATH,2.98,20.0,0.6,15,1
 Loferski (SBIO),Loferski,SBIO,3.59,19.42,0.08,12,2
 Lofton (BIOL),Lofton,BIOL,3.15,16.0,0.0,2,0
 Logan (COMM),Logan,COMM,3.66,30.57,0.14,7,0
-Logan (PR),Logan,PR,3.31,39.6,0.1,10,2
+Logan (PR),Logan,PR,3.31,39.6,0.1,10,1
 Lohani (CS),Lohani,CS,3.82,16.88,0.25,8,0
 Lohani (ENGL),Lohani,ENGL,3.7,19.12,0.38,8,4
 Lohr (MGT),Lohr,MGT,2.97,84.38,0.5,16,0
@@ -2839,7 +2839,7 @@ Lowe (ME),Lowe,ME,3.56,8.0,0.5,4,0
 Lowell (CHEM),Lowell,CHEM,3.38,18.56,0.56,9,1
 Lowell (GEOS),Lowell,GEOS,4.0,6.0,0.0,1,0
 Lowery (EDEL),Lowery,EDEL,3.96,14.5,0.0,2,1
-Lowry (ACIS),Lowry,ACIS,2.84,25.06,3.5,16,0
+Lowry (ACIS),Lowry,ACIS,2.84,25.06,3.5,16,3
 Lowry (BIT),Lowry,BIT,3.54,17.8,0.0,5,2
 Lowry (GRAD),Lowry,GRAD,4.0,6.0,0.0,1,0
 Lowry (MGT),Lowry,MGT,3.55,6.0,0.0,1,0
@@ -2873,7 +2873,7 @@ Luo (ECON),Luo,ECON,3.25,24.36,0.27,11,1
 Lusk (EDEP),Lusk,EDEP,4.0,7.5,0.0,2,0
 Lutgens (HIST),Lutgens,HIST,3.66,21.0,0.67,3,0
 Lutgens (SOC),Lutgens,SOC,3.48,17.0,0.0,3,0
-Lutgens (STS),Lutgens,STS,3.3,8.5,0.0,2,0
+Lutgens (STS),Lutgens,STS,3.3,8.5,0.0,2,1
 Luther (CS),Luther,CS,3.64,20.77,1.38,13,0
 Luttrell (MINE),Luttrell,MINE,3.35,16.67,0.0,3,0
 Luxbacher (MINE),Luxbacher,MINE,3.68,13.88,0.19,16,0
@@ -2919,7 +2919,7 @@ Mahan (ME),Mahan,ME,4.0,6.0,0.0,1,0
 Mahdavi Ara (COS),Mahdavi Ara,COS,3.73,33.5,0.0,2,0
 Mahdu (NR),Mahdu,NR,3.76,17.2,0.0,5,0
 Mahdu (UAP),Mahdu,UAP,3.6,11.33,0.0,3,0
-Maher (ACIS),Maher,ACIS,3.01,40.0,5.0,1,0
+Maher (ACIS),Maher,ACIS,3.01,40.0,5.0,1,2
 Mahmood (MATH),Mahmood,MATH,1.84,27.33,11.33,3,0
 Mahmoud (CMDA),Mahmoud,CMDA,2.9,47.0,3.0,1,0
 Mahmoud (STAT),Mahmoud,STAT,3.55,56.63,0.27,52,6
@@ -2966,7 +2966,7 @@ Marra Campos (DASC),Marra Campos,DASC,3.57,7.0,0.0,1,0
 Mars (ARCH),Mars,ARCH,3.51,10.8,0.13,15,1
 Marston (CEE),Marston,CEE,3.05,21.07,0.21,14,1
 Marston (GEOG),Marston,GEOG,3.39,64.33,0.67,3,0
-Martin (ACIS),Martin,ACIS,2.84,60.02,3.09,99,0
+Martin (ACIS),Martin,ACIS,2.84,60.02,3.09,99,8
 Martin (ARCH),Martin,ARCH,3.39,15.08,0.23,13,2
 Martin (AT),Martin,AT,3.05,12.32,0.29,34,4
 Martin (CHE),Martin,CHE,3.14,40.71,1.07,14,1
@@ -3179,7 +3179,7 @@ Minarich (HTM),Minarich,HTM,4.0,12.0,0.0,5,1
 Mindel (BIT),Mindel,BIT,3.69,62.62,0.0,16,2
 Minford (PSYC),Minford,PSYC,3.7,20.0,0.0,2,0
 Minford (REAL),Minford,REAL,3.57,28.5,0.0,2,0
-Minic (PHYS),Minic,PHYS,4.0,9.43,0.0,7,3
+Minic (PHYS),Minic,PHYS,4.0,9.43,0.0,7,2
 Minkova (RUS),Minkova,RUS,3.87,14.75,0.12,16,2
 Minnen (PSYC),Minnen,PSYC,3.4,43.2,0.6,5,0
 Minor (HIST),Minor,HIST,3.49,59.71,0.57,7,2
@@ -3303,12 +3303,12 @@ Murray (REAL),Murray,REAL,3.4,41.75,0.25,4,0
 Murray (UAP),Murray,UAP,3.16,21.0,0.0,1,0
 Murrell (SOC),Murrell,SOC,3.63,12.0,1.0,1,0
 Muruthi (HD),Muruthi,HD,3.68,43.33,0.83,6,0
-Murzi Escobar (ENGE),Murzi Escobar,ENGE,3.66,44.6,0.2,5,0
+Murzi Escobar (ENGE),Murzi Escobar,ENGE,3.66,44.6,0.2,5,1
 Murzi Escobar (GRAD),Murzi Escobar,GRAD,4.0,33.29,0.0,7,3
 Musselman (AAEC),Musselman,AAEC,3.46,114.78,2.11,9,0
 Myers (COMM),Myers,COMM,3.73,33.0,0.11,9,2
 Myers (HNFE),Myers,HNFE,3.66,149.83,0.67,6,0
-Myers (PR),Myers,PR,3.72,43.0,0.0,7,1
+Myers (PR),Myers,PR,3.72,43.0,0.0,7,2
 Mykerezi (AT),Mykerezi,AT,3.43,34.9,0.0,10,0
 Nackley (PSYC),Nackley,PSYC,3.88,20.82,0.06,17,0
 Nain (ME),Nain,ME,2.68,39.83,1.83,6,0
@@ -3321,7 +3321,7 @@ Nassereddine (ARBC),Nassereddine,ARBC,3.32,10.71,0.5,38,4
 Natishan (ENGL),Natishan,ENGL,3.6,19.25,0.0,8,0
 Natwick (HD),Natwick,HD,3.62,42.0,1.0,1,0
 Navarro Navarro (SBIO),Navarro Navarro,SBIO,3.38,10.0,0.0,1,0
-Nazhandali (ECE),Nazhandali,ECE,3.35,94.2,4.0,10,0
+Nazhandali (ECE),Nazhandali,ECE,3.35,94.2,4.0,10,1
 Ndiaye (FST),Ndiaye,FST,3.73,19.0,0.0,1,0
 Neath (PSYC),Neath,PSYC,3.68,34.75,1.5,4,2
 Nedic (ART),Nedic,ART,3.69,10.8,0.2,5,2
@@ -3333,16 +3333,16 @@ Neilan (ENGL),Neilan,ENGL,3.11,23.46,0.68,41,4
 Neill (AAEC),Neill,AAEC,3.62,70.0,0.25,4,0
 Neilson (FST),Neilson,FST,2.53,23.0,0.0,1,0
 Neilson (HNFE),Neilson,HNFE,2.94,36.0,2.0,1,0
-Nelson (GEOG),Nelson,GEOG,2.56,19.0,1.0,2,0
+Nelson (GEOG),Nelson,GEOG,2.56,19.0,1.0,2,1
 Nelson (GRAD),Nelson,GRAD,3.99,39.0,0.0,1,0
 Nelson (HD),Nelson,HD,3.73,68.0,1.0,1,0
 Nelson (HIST),Nelson,HIST,3.38,24.5,0.0,4,0
 Nelson (HNFE),Nelson,HNFE,4.0,19.0,0.0,5,0
-Nelson (IS),Nelson,IS,3.09,26.0,1.36,11,1
+Nelson (IS),Nelson,IS,3.09,26.0,1.36,11,4
 Nelson (ME),Nelson,ME,3.78,23.4,0.73,15,0
 Nelson (MUS),Nelson,MUS,3.71,10.0,0.0,1,0
 Nelson (PHYS),Nelson,PHYS,2.86,32.47,1.01,92,9
-Nelson (PSCI),Nelson,PSCI,3.3,12.47,0.41,17,1
+Nelson (PSCI),Nelson,PSCI,3.3,12.47,0.41,17,4
 Nelson (TA),Nelson,TA,3.91,7.5,0.07,14,2
 Nesbitt (GEOS),Nesbitt,GEOS,3.41,18.3,0.2,10,0
 Nesbitt (UH),Nesbitt,UH,4.0,11.0,0.0,1,0
@@ -3449,14 +3449,14 @@ Opazo (SPAN),Opazo,SPAN,3.43,17.58,0.16,19,1
 Opell (BIOL),Opell,BIOL,2.7,81.57,5.29,7,0
 Orden (AAEC),Orden,AAEC,3.76,8.0,0.0,1,0
 Orler (CHEM),Orler,CHEM,3.35,9.64,0.11,56,16
-Orlowski (ECE),Orlowski,ECE,3.65,41.73,0.55,11,0
+Orlowski (ECE),Orlowski,ECE,3.65,41.73,0.55,11,2
 Orr (EDHE),Orr,EDHE,4.0,20.0,0.0,1,0
 Orr (MATH),Orr,MATH,3.36,23.27,0.18,11,2
 Ortega Alvarez (ENGE),Ortega Alvarez,ENGE,3.55,66.47,0.41,17,2
 Ortega Villa (STAT),Ortega Villa,STAT,3.83,8.5,0.0,8,1
 Orth (FIW),Orth,FIW,3.48,31.0,0.4,5,0
 Osborne (GEOG),Osborne,GEOG,2.87,31.0,0.0,1,0
-Osborne (PHYS),Osborne,PHYS,2.94,40.18,1.31,96,16
+Osborne (PHYS),Osborne,PHYS,2.94,40.18,1.31,96,12
 Osborne (PSYC),Osborne,PSYC,4.0,6.0,0.0,2,0
 Oshields (ENGL),Oshields,ENGL,3.49,10.67,0.17,6,0
 Oshields (PSYC),Oshields,PSYC,3.37,23.0,0.33,3,0
@@ -3472,7 +3472,7 @@ Over (GRAD),Over,GRAD,3.98,13.0,0.0,1,0
 Ovink (SOC),Ovink,SOC,3.56,34.15,0.92,13,2
 Owens (DASC),Owens,DASC,4.0,6.0,0.0,1,0
 Ozkan (ENGE),Ozkan,ENGE,3.78,17.0,0.0,3,0
-Pace (MUS),Pace,MUS,4.0,10.88,0.19,16,2
+Pace (MUS),Pace,MUS,4.0,10.88,0.19,16,1
 Pace (TA),Pace,TA,3.83,9.67,0.0,3,0
 Pacheco Duarte (ME),Pacheco Duarte,ME,3.04,49.33,1.33,3,0
 Pacheco Duarte (NSEG),Pacheco Duarte,NSEG,3.26,18.5,3.5,2,0
@@ -3507,7 +3507,7 @@ Park (ECE),Park,ECE,3.65,13.25,0.25,4,0
 Park (HIST),Park,HIST,3.39,19.5,0.75,4,0
 Park (MATH),Park,MATH,2.54,29.5,6.0,2,0
 Park (MKTG),Park,MKTG,3.46,47.0,0.0,2,1
-Park (PHYS),Park,PHYS,3.17,35.38,0.12,8,1
+Park (PHYS),Park,PHYS,3.17,35.38,0.12,8,0
 Park (SOC),Park,SOC,2.34,8.0,0.0,1,0
 Park (STS),Park,STS,3.49,8.5,0.0,2,0
 Parker (ME),Parker,ME,2.92,26.5,0.0,2,0
@@ -3614,7 +3614,7 @@ Piedmont-Palladino (ARCH),Piedmont-Palladino,ARCH,3.57,12.09,0.0,11,3
 Piedmont-Palladino (UAP),Piedmont-Palladino,UAP,4.0,13.0,0.0,1,0
 Pieper (ARCH),Pieper,ARCH,3.91,10.85,0.0,13,1
 Pierson (BMVS),Pierson,BMVS,3.99,12.33,0.0,3,0
-Pierson (NSEG),Pierson,NSEG,3.74,25.0,0.18,34,1
+Pierson (NSEG),Pierson,NSEG,3.74,25.0,0.18,34,2
 Pierson (PHS),Pierson,PHS,3.93,23.0,0.0,1,0
 Piilonen (PHYS),Piilonen,PHYS,3.02,63.0,1.75,4,1
 Pilehvari (ECON),Pilehvari,ECON,3.11,46.5,0.0,2,0
@@ -3634,7 +3634,7 @@ Pittarello (PSYC),Pittarello,PSYC,3.62,29.18,0.0,11,0
 Pitterson (ENGE),Pitterson,ENGE,3.69,36.91,0.0,11,1
 Pittman (ACIS),Pittman,ACIS,4.0,5.0,0.0,1,0
 Pittman (ARCH),Pittman,ARCH,3.64,45.89,0.11,9,3
-Plassmann (ECE),Plassmann,ECE,3.37,26.67,0.5,18,2
+Plassmann (ECE),Plassmann,ECE,3.37,26.67,0.5,18,3
 Plassmann (GRAD),Plassmann,GRAD,4.0,41.0,0.0,1,0
 Pleimling (ISC),Pleimling,ISC,3.87,47.75,0.0,4,0
 Plotica (IS),Plotica,IS,3.7,20.0,0.0,1,0
@@ -3648,7 +3648,7 @@ Plymale (ECE),Plymale,ECE,3.42,39.33,0.08,12,0
 Poe (HD),Poe,HD,3.54,47.0,0.0,1,0
 Poelzing (BMES),Poelzing,BMES,3.75,8.0,0.0,1,0
 Poelzing (GRAD),Poelzing,GRAD,4.0,18.0,0.0,1,0
-Poelzing (TBMH),Poelzing,TBMH,3.65,17.12,0.0,8,0
+Poelzing (TBMH),Poelzing,TBMH,3.65,17.12,0.0,8,1
 Poets (ASPT),Poets,ASPT,3.76,11.0,0.0,3,0
 Poets (IS),Poets,IS,3.32,19.33,0.22,9,2
 Poets (PSCI),Poets,PSCI,3.09,13.57,0.29,7,2
@@ -3677,8 +3677,8 @@ Potter (EDIT),Potter,EDIT,3.69,6.81,0.0,42,0
 Potter (GRAD),Potter,GRAD,4.0,18.0,0.0,1,0
 Pottern Nunn (TA),Pottern Nunn,TA,4.0,10.0,0.0,1,0
 Potts (UAP),Potts,UAP,4.0,6.0,0.0,1,0
-Pourchot (IS),Pourchot,IS,3.67,9.8,0.2,5,0
-Pourchot (PSCI),Pourchot,PSCI,3.61,6.57,0.29,7,0
+Pourchot (IS),Pourchot,IS,3.67,9.8,0.2,5,1
+Pourchot (PSCI),Pourchot,PSCI,3.61,6.57,0.29,7,1
 Poursardar (CS),Poursardar,CS,3.5,74.33,1.0,3,0
 Povolny (AOE),Povolny,AOE,2.9,30.0,3.0,1,0
 Powell (CS),Powell,CS,3.57,55.67,0.67,3,0
@@ -3834,7 +3834,7 @@ Redican (PSYC),Redican,PSYC,4.0,6.5,0.0,2,0
 Reed (AFST),Reed,AFST,3.43,14.0,1.0,1,0
 Reed (COMM),Reed,COMM,3.56,14.0,0.0,6,0
 Reed (CRIM),Reed,CRIM,3.11,9.0,0.0,1,0
-Reed (ECE),Reed,ECE,3.8,9.79,0.0,14,0
+Reed (ECE),Reed,ECE,3.8,9.79,0.0,14,2
 Reed (ENGL),Reed,ENGL,3.53,18.44,0.17,18,0
 Reed (GEOG),Reed,GEOG,3.57,28.0,1.0,1,0
 Reed (JMC),Reed,JMC,3.82,22.04,0.0,26,3
@@ -3949,7 +3949,7 @@ Rodriguez (PAPA),Rodriguez,PAPA,3.79,15.0,0.0,1,0
 Rodriguez-Camilloni (ARCH),Rodriguez-Camilloni,ARCH,3.52,6.33,0.0,3,0
 Rodriguez-Marek (CEE),Rodriguez-Marek,CEE,3.51,22.67,0.0,15,1
 Roessle (CS),Roessle,CS,2.66,26.0,6.0,1,0
-Rogers (ACIS),Rogers,ACIS,3.4,22.82,0.26,38,0
+Rogers (ACIS),Rogers,ACIS,3.4,22.82,0.26,38,2
 Rogers (MATH),Rogers,MATH,2.58,25.11,3.26,27,0
 Rogers (PSYC),Rogers,PSYC,4.0,8.0,0.0,1,0
 Rogers (SPAN),Rogers,SPAN,3.9,21.0,0.0,2,0
@@ -3987,7 +3987,7 @@ Rott (ARCH),Rott,ARCH,3.96,7.0,0.0,1,0
 Rowe (ECON),Rowe,ECON,3.67,9.0,0.0,2,0
 Rowe (PHIL),Rowe,PHIL,3.82,14.5,0.0,4,0
 Rowe (PSCI),Rowe,PSCI,3.76,7.67,0.0,3,0
-Rowell (COS),Rowell,COS,3.82,43.95,0.25,20,4
+Rowell (COS),Rowell,COS,3.82,43.95,0.25,20,7
 Rowson (BMES),Rowson,BMES,3.85,13.0,0.0,4,0
 Roy (AOE),Roy,AOE,3.37,25.87,0.2,15,3
 Roy (ENGL),Roy,ENGL,3.76,14.93,0.0,15,2
@@ -4035,7 +4035,7 @@ Sadler (HIST),Sadler,HIST,3.49,19.0,3.0,1,2
 Saeidfar (ENGL),Saeidfar,ENGL,3.45,18.12,0.5,8,4
 Saenz Maldonado (MATH),Saenz Maldonado,MATH,2.54,25.47,3.68,19,0
 Saenz Maldonado (PHYS),Saenz Maldonado,PHYS,3.41,94.0,1.0,1,0
-Safaai-Jazi (ECE),Safaai-Jazi,ECE,2.76,40.12,2.44,16,0
+Safaai-Jazi (ECE),Safaai-Jazi,ECE,2.76,40.12,2.44,16,1
 Saffle (APS),Saffle,APS,3.56,28.0,0.0,1,0
 Saffle (COMM),Saffle,COMM,3.58,15.0,1.0,1,0
 Saffle (HUM),Saffle,HUM,3.59,15.8,0.2,5,0
@@ -4044,7 +4044,7 @@ Sagheb (COMM),Sagheb,COMM,3.31,16.0,0.0,1,0
 Sagheb (UH),Sagheb,UH,3.9,21.87,0.0,15,0
 Saglam (MATH),Saglam,MATH,2.47,25.17,3.83,12,0
 Sajadi (ENGE),Sajadi,ENGE,4.0,14.0,0.0,1,0
-Saksena (CEE),Saksena,CEE,3.54,15.5,0.12,8,1
+Saksena (CEE),Saksena,CEE,3.54,15.5,0.12,8,2
 Salado Diez (ENGR),Salado Diez,ENGR,3.72,6.75,0.0,4,0
 Salado Diez (ISE),Salado Diez,ISE,3.36,6.25,0.0,4,0
 Salan (PSYC),Salan,PSYC,3.8,16.33,0.0,6,0
@@ -4063,7 +4063,7 @@ Samanta (SOC),Samanta,SOC,3.86,13.0,0.0,2,0
 Samanta (WGS),Samanta,WGS,3.66,35.3,0.1,20,0
 Sampson (STAT),Sampson,STAT,3.89,7.5,0.0,2,0
 Sanchez (SPIA),Sanchez,SPIA,3.77,45.33,0.33,3,0
-Sanchez (UAP),Sanchez,UAP,3.85,12.85,0.0,13,2
+Sanchez (UAP),Sanchez,UAP,3.85,12.85,0.0,13,1
 Sanders (AOE),Sanders,AOE,3.24,49.0,3.0,1,1
 Sanders (ENGL),Sanders,ENGL,3.95,21.0,0.0,1,0
 Sanders (TA),Sanders,TA,3.86,10.8,0.8,5,2
@@ -4085,7 +4085,7 @@ Santos (MATH),Santos,MATH,2.52,22.0,1.0,2,0
 Santos Lages (ART),Santos Lages,ART,3.33,10.07,0.43,14,0
 Sarikas (NR),Sarikas,NR,4.0,10.0,0.0,2,2
 Sarin (ISE),Sarin,ISE,3.71,10.55,0.0,11,2
-Sarker (ECE),Sarker,ECE,3.3,18.44,0.22,32,0
+Sarker (ECE),Sarker,ECE,3.3,18.44,0.22,32,4
 Sarlo (CEE),Sarlo,CEE,3.7,29.73,0.18,11,1
 Sarshar (CS),Sarshar,CS,3.6,10.0,0.0,1,0
 Sarshar (MATH),Sarshar,MATH,3.27,6.0,0.0,1,0
@@ -4181,7 +4181,7 @@ Scott-Poe (HD),Scott-Poe,HD,3.56,76.0,0.0,2,0
 Scully (ART),Scully,ART,3.49,15.5,0.0,2,1
 Seabrook (GEOG),Seabrook,GEOG,2.87,31.0,0.0,1,0
 Seabrook (HIST),Seabrook,HIST,3.61,48.0,0.0,1,0
-Seago (ACIS),Seago,ACIS,3.61,15.75,0.0,4,0
+Seago (ACIS),Seago,ACIS,3.61,15.75,0.0,4,1
 Seah (PSYC),Seah,PSYC,3.76,10.23,0.0,13,1
 Sears (MS),Sears,MS,3.92,32.67,0.17,6,0
 Sechrist (MINE),Sechrist,MINE,3.69,25.5,0.0,2,0
@@ -4230,7 +4230,7 @@ Shaffer (PHYS),Shaffer,PHYS,3.41,94.0,1.0,1,0
 Shafian (CSES),Shafian,CSES,3.67,9.0,0.0,2,0
 Shah (NEUR),Shah,NEUR,3.4,88.86,1.57,7,2
 Shahab (ESM),Shahab,ESM,3.34,33.0,0.0,1,0
-Shahab (ME),Shahab,ME,3.39,37.78,0.22,9,3
+Shahab (ME),Shahab,ME,3.39,37.78,0.22,9,2
 Shajahan (HUM),Shajahan,HUM,3.25,35.0,0.0,1,1
 Shajahan (RLCL),Shajahan,RLCL,2.86,14.5,0.0,2,0
 Shakiba (CEE),Shakiba,CEE,3.19,34.0,0.12,8,0
@@ -4246,7 +4246,7 @@ Sharma (GRAD),Sharma,GRAD,4.0,41.0,0.0,1,0
 Sharma (HTM),Sharma,HTM,3.82,29.0,0.0,4,0
 Sharma (IDS),Sharma,IDS,3.67,24.57,0.07,14,0
 Sharma (UH),Sharma,UH,4.0,8.0,0.0,1,0
-Sharp (ACIS),Sharp,ACIS,3.16,102.15,1.62,66,0
+Sharp (ACIS),Sharp,ACIS,3.16,102.15,1.62,66,4
 Sharp (PSYC),Sharp,PSYC,3.94,19.0,0.0,1,0
 Sharpe (MATH),Sharpe,MATH,2.27,29.5,4.0,2,0
 Sharpe (PHYS),Sharpe,PHYS,3.52,20.71,0.0,7,1
@@ -4283,7 +4283,7 @@ Shinault (ADV),Shinault,ADV,3.29,20.0,0.0,1,0
 Shinault (CMST),Shinault,CMST,3.22,34.86,0.43,7,0
 Shinault (COMM),Shinault,COMM,3.16,28.71,0.14,14,0
 Shinault (PR),Shinault,PR,3.17,34.65,0.1,20,0
-Shinpaugh (AOE),Shinpaugh,AOE,3.77,46.0,0.03,29,2
+Shinpaugh (AOE),Shinpaugh,AOE,3.77,46.0,0.03,29,3
 Shirzaei (GEOS),Shirzaei,GEOS,3.7,29.4,0.0,5,1
 Shivers (HD),Shivers,HD,3.83,52.56,0.33,18,0
 Shivers (PSYC),Shivers,PSYC,4.0,5.0,0.0,1,0
@@ -4296,7 +4296,7 @@ Shoop (COMM),Shoop,COMM,3.36,13.0,0.0,1,0
 Shoop (MKTG),Shoop,MKTG,3.9,65.0,0.0,9,0
 Shoop (PR),Shoop,PR,3.53,15.8,0.0,5,0
 Short (EDHE),Short,EDHE,3.83,15.0,0.0,1,0
-Shortt (ACIS),Shortt,ACIS,3.3,21.38,0.28,60,1
+Shortt (ACIS),Shortt,ACIS,3.3,21.38,0.28,60,9
 Showalter (FIN),Showalter,FIN,3.07,111.33,1.46,24,3
 Shryock (FR),Shryock,FR,3.54,14.64,0.18,11,4
 Shuai (SBIO),Shuai,SBIO,3.33,6.0,0.0,1,0
@@ -4322,7 +4322,7 @@ Simonetti (PHYS),Simonetti,PHYS,3.7,24.77,0.19,91,10
 Simonetti (PSYC),Simonetti,PSYC,4.0,7.0,0.0,1,0
 Simons (ENGL),Simons,ENGL,3.07,16.9,0.2,10,0
 Simpson (ACIS),Simpson,ACIS,3.8,5.0,0.0,1,0
-Simpson (BIT),Simpson,BIT,3.68,33.67,1.0,3,4
+Simpson (BIT),Simpson,BIT,3.68,33.67,1.0,3,5
 Simpson (CS),Simpson,CS,3.88,19.0,1.0,1,0
 Simpson (HD),Simpson,HD,3.51,33.0,1.0,1,0
 Simpson (MGT),Simpson,MGT,3.41,27.75,0.05,20,4
@@ -4427,7 +4427,7 @@ Sovine (MATH),Sovine,MATH,2.53,29.4,3.6,5,0
 Sowder (CMST),Sowder,CMST,4.0,6.0,0.0,5,2
 Sowder (COMM),Sowder,COMM,3.54,27.31,0.0,35,2
 Sowle (CS),Sowle,CS,2.88,39.0,3.0,1,0
-Soysal (ECE),Soysal,ECE,3.0,43.67,1.33,3,1
+Soysal (ECE),Soysal,ECE,3.0,43.67,1.33,3,2
 Soysal (UH),Soysal,UH,3.86,10.13,0.0,15,0
 Spaar (ART),Spaar,ART,2.94,265.0,12.12,8,2
 Spaar (GEOG),Spaar,GEOG,3.57,28.0,1.0,1,0
@@ -4608,7 +4608,7 @@ Tahmasian (ESM),Tahmasian,ESM,2.62,55.21,6.39,28,1
 Takeuchi (PHYS),Takeuchi,PHYS,3.78,10.29,0.0,7,1
 Talley (NR),Talley,NR,3.97,28.4,0.0,5,0
 Tallon Galdeano (MSE),Tallon Galdeano,MSE,3.55,22.0,0.11,9,2
-Talty (ECE),Talty,ECE,3.58,21.75,0.0,12,0
+Talty (ECE),Talty,ECE,3.58,21.75,0.0,12,3
 Tamim (APSC),Tamim,APSC,3.19,81.31,0.92,13,0
 Tamul (COMM),Tamul,COMM,3.05,16.86,0.29,7,0
 Tan (ACIS),Tan,ACIS,3.23,27.67,0.44,9,0
@@ -4705,7 +4705,7 @@ Thorp (LAHS),Thorp,LAHS,3.52,20.75,0.5,4,0
 Thorpe (ALS),Thorpe,ALS,3.77,49.5,0.0,4,0
 Thorpe (BCHM),Thorpe,BCHM,3.02,58.75,0.75,4,0
 Thorsett (MUS),Thorsett,MUS,3.73,15.33,0.08,12,0
-Thweatt (ECE),Thweatt,ECE,2.84,52.95,4.9,21,0
+Thweatt (ECE),Thweatt,ECE,2.84,52.95,4.9,21,2
 Tian (ME),Tian,ME,4.0,7.0,0.0,1,0
 Tian (NANO),Tian,NANO,3.54,14.0,0.0,12,1
 Tibau Benitez (CS),Tibau Benitez,CS,2.95,35.0,1.0,1,0
@@ -4783,7 +4783,7 @@ Tucker (ART),Tucker,ART,3.96,12.27,0.0,11,6
 Tucker (BC),Tucker,BC,3.48,33.5,0.0,4,0
 Tucker (HTM),Tucker,HTM,3.7,85.5,0.5,4,1
 Tucker (ITDS),Tucker,ITDS,3.66,19.27,0.0,26,0
-Tucker (RED),Tucker,RED,3.38,13.0,0.0,1,2
+Tucker (RED),Tucker,RED,3.38,13.0,0.0,1,1
 Tunc (ISE),Tunc,ISE,3.61,54.43,0.14,7,2
 Tural (ITDS),Tural,ITDS,3.44,26.34,0.16,32,3
 Turkaslan Bulbul (BC),Turkaslan Bulbul,BC,3.39,27.78,1.72,18,2
@@ -4825,7 +4825,7 @@ Van Tyne (ENGE),Van Tyne,ENGE,3.45,58.16,0.29,31,4
 Van Tyne (MSE),Van Tyne,MSE,3.56,62.67,0.0,3,0
 Van Wart (TBMH),Van Wart,TBMH,3.88,18.5,0.0,4,0
 VanDuyne (PR),VanDuyne,PR,3.69,20.0,0.0,1,0
-Vance (ACIS),Vance,ACIS,3.23,35.29,0.86,14,0
+Vance (ACIS),Vance,ACIS,3.23,35.29,0.86,14,3
 Vance (ARCH),Vance,ARCH,3.62,16.33,0.0,3,0
 Vance (BIT),Vance,BIT,3.34,39.29,0.57,7,2
 Vance (CS),Vance,CS,3.86,11.0,0.0,1,0
@@ -4890,7 +4890,7 @@ Wagoner (UNIV),Wagoner,UNIV,2.83,36.0,1.0,1,0
 Wagstaff (EDCO),Wagstaff,EDCO,4.0,19.0,0.0,1,0
 Waldman (ENGL),Waldman,ENGL,3.45,30.5,0.33,6,3
 Waldron (MGT),Waldron,MGT,3.82,23.0,0.0,2,0
-Walker (ACIS),Walker,ACIS,3.04,19.22,0.22,9,0
+Walker (ACIS),Walker,ACIS,3.04,19.22,0.22,9,2
 Walker (BIOL),Walker,BIOL,3.71,43.91,0.88,34,1
 Walker (ENGL),Walker,ENGL,3.5,20.94,0.31,16,2
 Walker (HD),Walker,HD,4.0,11.0,0.0,2,0
@@ -4906,7 +4906,7 @@ Wallace (GEOG),Wallace,GEOG,2.87,31.0,0.0,1,0
 Wallace (LAHS),Wallace,LAHS,3.12,17.75,0.0,4,2
 Wallenstein (AFST),Wallenstein,AFST,3.78,6.0,0.0,1,0
 Wallenstein (HIST),Wallenstein,HIST,3.41,22.67,1.17,6,2
-Walling (ECE),Walling,ECE,3.74,11.5,0.0,4,0
+Walling (ECE),Walling,ECE,3.74,11.5,0.0,4,1
 Wallwey (ENGE),Wallwey,ENGE,3.48,68.67,1.33,6,2
 Walsh (AHRM),Walsh,AHRM,3.8,57.71,0.12,24,2
 Walsh (REAL),Walsh,REAL,2.99,44.8,1.4,10,1
@@ -5077,7 +5077,7 @@ Williams (ACIS),Williams,ACIS,3.01,37.75,2.25,4,0
 Williams (CRIM),Williams,CRIM,3.38,32.92,0.31,13,3
 Williams (CS),Williams,CS,3.24,87.33,2.67,3,1
 Williams (CSES),Williams,CSES,3.6,7.0,0.0,3,0
-Williams (ECE),Williams,ECE,3.39,75.2,1.3,10,0
+Williams (ECE),Williams,ECE,3.39,75.2,1.3,10,1
 Williams (EDCI),Williams,EDCI,3.97,14.46,0.0,13,2
 Williams (ENGL),Williams,ENGL,3.69,18.29,0.07,14,0
 Williams (FST),Williams,FST,3.77,19.0,0.0,1,0
@@ -5148,7 +5148,7 @@ Wong (ALS),Wong,ALS,2.3,8.25,0.0,4,0
 Wong (APSC),Wong,APSC,3.37,7.33,0.0,3,0
 Wong (BIOL),Wong,BIOL,2.89,16.4,0.2,5,0
 Wood (ALS),Wood,ALS,3.49,24.0,1.0,1,0
-Wood (APSC),Wood,APSC,2.94,34.69,0.17,48,2
+Wood (APSC),Wood,APSC,2.94,34.69,0.17,48,3
 Wood (TA),Wood,TA,3.77,17.81,0.0,16,0
 Woods (COMM),Woods,COMM,3.49,19.25,0.0,4,0
 Woods (MGT),Woods,MGT,2.74,60.0,3.0,1,0
@@ -5169,7 +5169,7 @@ Wu (GEOG),Wu,GEOG,2.87,31.0,0.0,1,0
 Wu (STAT),Wu,STAT,3.22,14.45,0.27,11,3
 Wusk (BMES),Wusk,BMES,3.86,17.67,0.0,3,0
 Wyatt (CS),Wyatt,CS,2.5,15.75,4.5,4,0
-Wyatt (ECE),Wyatt,ECE,2.67,44.21,6.58,19,0
+Wyatt (ECE),Wyatt,ECE,2.67,44.21,6.58,19,1
 Wyatt (MUS),Wyatt,MUS,3.84,9.47,0.0,15,0
 Wyatt (PHYS),Wyatt,PHYS,3.41,94.0,1.0,1,0
 Wyatt (UH),Wyatt,UH,4.0,11.0,0.0,1,0
@@ -5212,7 +5212,7 @@ Yan (MATH),Yan,MATH,2.6,31.0,0.5,2,0
 Yang (BIOL),Yang,BIOL,3.5,33.58,0.5,12,1
 Yang (CMDA),Yang,CMDA,2.77,43.0,0.0,1,0
 Yang (CS),Yang,CS,3.76,17.5,0.12,8,0
-Yang (ECE),Yang,ECE,3.4,30.0,0.7,10,0
+Yang (ECE),Yang,ECE,3.4,30.0,0.7,10,1
 Yang (ECON),Yang,ECON,3.34,52.69,0.54,26,3
 Yang (ENT),Yang,ENT,3.82,5.0,0.0,1,1
 Yang (FREC),Yang,FREC,2.88,10.0,0.0,1,0
@@ -5257,7 +5257,7 @@ Young (ENGL),Young,ENGL,3.78,18.5,0.0,2,0
 Young (ME),Young,ME,2.66,5.0,2.0,1,1
 Younis (ME),Younis,ME,3.68,67.0,0.0,1,0
 Younos (JPN),Younos,JPN,3.59,16.81,0.16,32,0
-Yu (ECE),Yu,ECE,3.17,16.32,0.41,44,0
+Yu (ECE),Yu,ECE,3.17,16.32,0.41,44,4
 Yu (ENGL),Yu,ENGL,3.63,18.66,0.16,32,0
 Yu (ESM),Yu,ESM,3.09,20.33,0.33,3,0
 Yu (HD),Yu,HD,3.23,19.0,0.0,1,0
@@ -5288,7 +5288,7 @@ Zeinali (CEE),Zeinali,CEE,3.21,18.0,2.0,1,0
 Zellner Bassett (ARCH),Zellner Bassett,ARCH,3.42,33.13,0.4,15,6
 Zellner Bassett (IDS),Zellner Bassett,IDS,3.86,13.0,0.75,4,0
 Zeng (CS),Zeng,CS,2.79,8.0,2.0,1,0
-Zeng (ECE),Zeng,ECE,3.47,36.33,0.53,15,0
+Zeng (ECE),Zeng,ECE,3.47,36.33,0.53,15,2
 Zerrouk (PSYC),Zerrouk,PSYC,3.75,34.0,0.33,6,2
 Zhang (AAEC),Zhang,AAEC,3.4,15.0,0.4,5,0
 Zhang (ART),Zhang,ART,3.87,23.0,0.0,1,0
@@ -5300,7 +5300,7 @@ Zhang (CEM),Zhang,CEM,3.18,38.0,1.0,1,3
 Zhang (CHE),Zhang,CHE,3.04,6.67,0.0,3,0
 Zhang (CS),Zhang,CS,3.73,20.38,0.08,13,1
 Zhang (CSES),Zhang,CSES,3.42,19.2,0.0,5,1
-Zhang (ECE),Zhang,ECE,3.59,18.2,0.53,15,1
+Zhang (ECE),Zhang,ECE,3.59,18.2,0.53,15,2
 Zhang (HTM),Zhang,HTM,3.34,111.0,0.0,1,1
 Zhang (MATH),Zhang,MATH,2.41,22.67,4.0,3,0
 Zhang (MGT),Zhang,MGT,3.22,55.5,0.5,2,0
@@ -5361,7 +5361,7 @@ Vertino de Queiroz (AAEC),Vertino de Queiroz,AAEC,0.0,0.0,0.0,0,3
 Abedin (AAEC),Abedin,AAEC,0.0,0.0,0.0,0,1
 Morelli Mercadante (AAEC),Morelli Mercadante,AAEC,0.0,0.0,0.0,0,3
 Wang (AAEC),Wang,AAEC,0.0,0.0,0.0,0,2
-Staff (ACIS),Staff,ACIS,0.0,0.0,0.0,0,81
+Karagulle (AAEC),Karagulle,AAEC,0.0,0.0,0.0,0,1
 Zahadat (ACIS),Zahadat,ACIS,0.0,0.0,0.0,0,2
 Spiller (ADV),Spiller,ADV,0.0,0.0,0.0,0,2
 Timofeev (ADV),Timofeev,ADV,0.0,0.0,0.0,0,1
@@ -5377,10 +5377,10 @@ Alward (ALCE),Alward,ALCE,0.0,0.0,0.0,0,1
 Staff (ALS),Staff,ALS,0.0,0.0,0.0,0,3
 Helm (ALS),Helm,ALS,0.0,0.0,0.0,0,4
 Jones (ALS),Jones,ALS,0.0,0.0,0.0,0,1
-Staff (AOE),Staff,AOE,0.0,0.0,0.0,0,3
 Jaworski (AOE),Jaworski,AOE,0.0,0.0,0.0,0,1
 Srinivas (AOE),Srinivas,AOE,0.0,0.0,0.0,0,1
 Martinez Soto (AOE),Martinez Soto,AOE,0.0,0.0,0.0,0,2
+Staff (AOE),Staff,AOE,0.0,0.0,0.0,0,2
 Apte (AOE),Apte,AOE,0.0,0.0,0.0,0,1
 Sanmugadas (AOE),Sanmugadas,AOE,0.0,0.0,0.0,0,1
 Ray (AOE),Ray,AOE,0.0,0.0,0.0,0,1
@@ -5396,9 +5396,9 @@ Shaver (ARCH),Shaver,ARCH,0.0,0.0,0.0,0,1
 Hernandez (ARCH),Hernandez,ARCH,0.0,0.0,0.0,0,2
 Garcia Carrasco (ARCH),Garcia Carrasco,ARCH,0.0,0.0,0.0,0,1
 Haney (ARCH),Haney,ARCH,0.0,0.0,0.0,0,2
-Staff (ARCH),Staff,ARCH,0.0,0.0,0.0,0,14
+Staff (ARCH),Staff,ARCH,0.0,0.0,0.0,0,11
 Haghnazar Kouchaksaraei (ARCH),Haghnazar Kouchaksaraei,ARCH,0.0,0.0,0.0,0,4
-Staff (ART),Staff,ART,0.0,0.0,0.0,0,4
+Staff (ART),Staff,ART,0.0,0.0,0.0,0,3
 DiSalvo (ART),DiSalvo,ART,0.0,0.0,0.0,0,4
 Bird (ART),Bird,ART,0.0,0.0,0.0,0,5
 Okoro (ART),Okoro,ART,0.0,0.0,0.0,0,1
@@ -5421,10 +5421,11 @@ Allen (BIOL),Allen,BIOL,0.0,0.0,0.0,0,2
 Cao (BIOL),Cao,BIOL,0.0,0.0,0.0,0,1
 Suvorov (BIOL),Suvorov,BIOL,0.0,0.0,0.0,0,1
 Staff (BIT),Staff,BIT,0.0,0.0,0.0,0,4
-Romero Masters (BIT),Romero Masters,BIT,0.0,0.0,0.0,0,3
+Romero-Masters (BIT),Romero-Masters,BIT,0.0,0.0,0.0,0,3
 McCord (BIT),McCord,BIT,0.0,0.0,0.0,0,1
 Zahadat (BIT),Zahadat,BIT,0.0,0.0,0.0,0,4
 Srinivas (BIT),Srinivas,BIT,0.0,0.0,0.0,0,3
+Durham (BIT),Durham,BIT,0.0,0.0,0.0,0,1
 Staff (BMES),Staff,BMES,0.0,0.0,0.0,0,6
 Collins (BMES),Collins,BMES,0.0,0.0,0.0,0,1
 Vijayan (BMES),Vijayan,BMES,0.0,0.0,0.0,0,1
@@ -5435,6 +5436,7 @@ Untaroiu (BMES),Untaroiu,BMES,0.0,0.0,0.0,0,1
 Gurari (BMES),Gurari,BMES,0.0,0.0,0.0,0,1
 Apgar (BMES),Apgar,BMES,0.0,0.0,0.0,0,1
 Roberts (BMES),Roberts,BMES,0.0,0.0,0.0,0,1
+Guevel (BMES),Guevel,BMES,0.0,0.0,0.0,0,1
 Ververs (BMES),Ververs,BMES,0.0,0.0,0.0,0,1
 Boerth (BMSP),Boerth,BMSP,0.0,0.0,0.0,0,2
 Moore (BMVS),Moore,BMVS,0.0,0.0,0.0,0,1
@@ -5456,6 +5458,7 @@ Benavides Ruiz (CEE),Benavides Ruiz,CEE,0.0,0.0,0.0,0,1
 Staff (CEE),Staff,CEE,0.0,0.0,0.0,0,4
 Farhadi (CEE),Farhadi,CEE,0.0,0.0,0.0,0,1
 Phillips (CEE),Phillips,CEE,0.0,0.0,0.0,0,1
+HASNINE (CEE),HASNINE,CEE,0.0,0.0,0.0,0,1
 Ammar (CEM),Ammar,CEM,0.0,0.0,0.0,0,2
 Staff (CHE),Staff,CHE,0.0,0.0,0.0,0,3
 Staff (CHEM),Staff,CHEM,0.0,0.0,0.0,0,18
@@ -5464,7 +5467,7 @@ Worch (CHEM),Worch,CHEM,0.0,0.0,0.0,0,1
 Slebodnick (CHEM),Slebodnick,CHEM,0.0,0.0,0.0,0,1
 Dandridge (CINE),Dandridge,CINE,0.0,0.0,0.0,0,2
 Merkes (CMDA),Merkes,CMDA,0.0,0.0,0.0,0,1
-Staff (CMDA),Staff,CMDA,0.0,0.0,0.0,0,13
+Staff (CMDA),Staff,CMDA,0.0,0.0,0.0,0,14
 Nizamani (CMDA),Nizamani,CMDA,0.0,0.0,0.0,0,1
 Harden (CMDA),Harden,CMDA,0.0,0.0,0.0,0,1
 Lanus (CMDA),Lanus,CMDA,0.0,0.0,0.0,0,1
@@ -5473,7 +5476,6 @@ Staff (CNST),Staff,CNST,0.0,0.0,0.0,0,1
 Staff (COMM),Staff,COMM,0.0,0.0,0.0,0,2
 Cassady (COMM),Cassady,COMM,0.0,0.0,0.0,0,4
 Widgeon (COMM),Widgeon,COMM,0.0,0.0,0.0,0,2
-Staff (COS),Staff,COS,0.0,0.0,0.0,0,3
 Jones (CRIM),Jones,CRIM,0.0,0.0,0.0,0,1
 King (CS),King,CS,0.0,0.0,0.0,0,1
 Staff (CS),Staff,CS,0.0,0.0,0.0,0,14
@@ -5493,11 +5495,14 @@ Atkinson (CS),Atkinson,CS,0.0,0.0,0.0,0,1
 Sundararajah (CS),Sundararajah,CS,0.0,0.0,0.0,0,1
 Roy (CS),Roy,CS,0.0,0.0,0.0,0,1
 Santantonio (CSES),Santantonio,CSES,0.0,0.0,0.0,0,1
-Staff (ECE),Staff,ECE,0.0,0.0,0.0,0,82
+Staff (ECE),Staff,ECE,0.0,0.0,0.0,0,30
+Connors (ECE),Connors,ECE,0.0,0.0,0.0,0,1
+Milburn (ECE),Milburn,ECE,0.0,0.0,0.0,0,4
 Asryan (ECE),Asryan,ECE,0.0,0.0,0.0,0,1
+Jakubisin (ECE),Jakubisin,ECE,0.0,0.0,0.0,0,2
 L'Afflitto (ECE),L'Afflitto,ECE,0.0,0.0,0.0,0,1
-Staff (ECON),Staff,ECON,0.0,0.0,0.0,0,14
-Owusu Brown (ECON),Owusu Brown,ECON,0.0,0.0,0.0,0,1
+Staff (ECON),Staff,ECON,0.0,0.0,0.0,0,12
+Owusu-Brown (ECON),Owusu-Brown,ECON,0.0,0.0,0.0,0,1
 Mahmud (ECON),Mahmud,ECON,0.0,0.0,0.0,0,2
 Al Dirani (EDCI),Al Dirani,EDCI,0.0,0.0,0.0,0,1
 Hunt (EDCI),Hunt,EDCI,0.0,0.0,0.0,0,2
@@ -5513,7 +5518,7 @@ Song (EDIT),Song,EDIT,0.0,0.0,0.0,0,11
 Stewart (EDRE),Stewart,EDRE,0.0,0.0,0.0,0,1
 Bowen (EDTE),Bowen,EDTE,0.0,0.0,0.0,0,2
 Mullins (ENGE),Mullins,ENGE,0.0,0.0,0.0,0,1
-Staff (ENGE),Staff,ENGE,0.0,0.0,0.0,0,6
+Staff (ENGE),Staff,ENGE,0.0,0.0,0.0,0,2
 Dogan (ENGE),Dogan,ENGE,0.0,0.0,0.0,0,4
 Shah (ENGE),Shah,ENGE,0.0,0.0,0.0,0,2
 Henderson (ENGE),Henderson,ENGE,0.0,0.0,0.0,0,1
@@ -5526,7 +5531,7 @@ Kwawukumey (ENGL),Kwawukumey,ENGL,0.0,0.0,0.0,0,2
 Das (ENGL),Das,ENGL,0.0,0.0,0.0,0,2
 Borjas (ENGL),Borjas,ENGL,0.0,0.0,0.0,0,2
 Fessenden (ENGL),Fessenden,ENGL,0.0,0.0,0.0,0,2
-Staff (ENGL),Staff,ENGL,0.0,0.0,0.0,0,13
+Staff (ENGL),Staff,ENGL,0.0,0.0,0.0,0,14
 Govea (ENGL),Govea,ENGL,0.0,0.0,0.0,0,1
 Li (ENGL),Li,ENGL,0.0,0.0,0.0,0,1
 Malik (ENGL),Malik,ENGL,0.0,0.0,0.0,0,2
@@ -5551,7 +5556,7 @@ Sweezy (ENGL),Sweezy,ENGL,0.0,0.0,0.0,0,1
 Halsey (ENGL),Halsey,ENGL,0.0,0.0,0.0,0,1
 Flego (ENGL),Flego,ENGL,0.0,0.0,0.0,0,1
 Woods (ENGL),Woods,ENGL,0.0,0.0,0.0,0,1
-Weaver Hightower (ENGL),Weaver Hightower,ENGL,0.0,0.0,0.0,0,2
+Weaver-Hightower (ENGL),Weaver-Hightower,ENGL,0.0,0.0,0.0,0,2
 Ivory (ENGL),Ivory,ENGL,0.0,0.0,0.0,0,2
 Katey (ENGR),Katey,ENGR,0.0,0.0,0.0,0,3
 Beling (ENGR),Beling,ENGR,0.0,0.0,0.0,0,2
@@ -5560,19 +5565,17 @@ Staff (ESM),Staff,ESM,0.0,0.0,0.0,0,24
 Aning (ESM),Aning,ESM,0.0,0.0,0.0,0,1
 Seidel (ESM),Seidel,ESM,0.0,0.0,0.0,0,1
 Fu (ESM),Fu,ESM,0.0,0.0,0.0,0,3
-Korneva (ESM),Korneva,ESM,0.0,0.0,0.0,0,1
 Roy (ESM),Roy,ESM,0.0,0.0,0.0,0,2
 Anderson (FIN),Anderson,FIN,0.0,0.0,0.0,0,3
 Fleenor (FIN),Fleenor,FIN,0.0,0.0,0.0,0,1
-Staff (FIN),Staff,FIN,0.0,0.0,0.0,0,2
+Staff (FIN),Staff,FIN,0.0,0.0,0.0,0,1
 Kennedy (FIN),Kennedy,FIN,0.0,0.0,0.0,0,4
 Sheng (FIN),Sheng,FIN,0.0,0.0,0.0,0,1
 Staff (FIW),Staff,FIW,0.0,0.0,0.0,0,1
 Holliday (FIW),Holliday,FIW,0.0,0.0,0.0,0,1
 Rogers (FIW),Rogers,FIW,0.0,0.0,0.0,0,4
 Snodgrass (FIW),Snodgrass,FIW,0.0,0.0,0.0,0,1
-Pattison (FMD),Pattison,FMD,0.0,0.0,0.0,0,2
-Staff (FR),Staff,FR,0.0,0.0,0.0,0,1
+Mallet (FR),Mallet,FR,0.0,0.0,0.0,0,1
 Casto (FR),Casto,FR,0.0,0.0,0.0,0,1
 Berry (FREC),Berry,FREC,0.0,0.0,0.0,0,1
 Nguyen (FREC),Nguyen,FREC,0.0,0.0,0.0,0,1
@@ -5585,8 +5588,8 @@ Poets (GEOG),Poets,GEOG,0.0,0.0,0.0,0,1
 Gignoux (GEOG),Gignoux,GEOG,0.0,0.0,0.0,0,1
 Gill (GEOG),Gill,GEOG,0.0,0.0,0.0,0,1
 Starner (GEOG),Starner,GEOG,0.0,0.0,0.0,0,2
-Staff (GEOG),Staff,GEOG,0.0,0.0,0.0,0,2
 Wynne (GEOG),Wynne,GEOG,0.0,0.0,0.0,0,1
+Staff (GEOG),Staff,GEOG,0.0,0.0,0.0,0,1
 Toal (GEOG),Toal,GEOG,0.0,0.0,0.0,0,1
 Cisneros (GEOS),Cisneros,GEOS,0.0,0.0,0.0,0,1
 Haines (GEOS),Haines,GEOS,0.0,0.0,0.0,0,9
@@ -5607,10 +5610,10 @@ Reinhardt (HD),Reinhardt,HD,0.0,0.0,0.0,0,1
 Foriest (HD),Foriest,HD,0.0,0.0,0.0,0,1
 Pittman (HD),Pittman,HD,0.0,0.0,0.0,0,1
 Henderson (HD),Henderson,HD,0.0,0.0,0.0,0,1
+Staff (HD),Staff,HD,0.0,0.0,0.0,0,1
 Billingsley (HD),Billingsley,HD,0.0,0.0,0.0,0,1
 Cook (HD),Cook,HD,0.0,0.0,0.0,0,1
 Jeyaraj Samraj (HIST),Jeyaraj Samraj,HIST,0.0,0.0,0.0,0,1
-Haines (HIST),Haines,HIST,0.0,0.0,0.0,0,1
 Kiran (HIST),Kiran,HIST,0.0,0.0,0.0,0,1
 Dawkins (HIST),Dawkins,HIST,0.0,0.0,0.0,0,1
 Collier (HIST),Collier,HIST,0.0,0.0,0.0,0,1
@@ -5639,7 +5642,7 @@ Staff (IDS),Staff,IDS,0.0,0.0,0.0,0,1
 Prochner (IDS),Prochner,IDS,0.0,0.0,0.0,0,2
 King (IDS),King,IDS,0.0,0.0,0.0,0,1
 Kim (IDS),Kim,IDS,0.0,0.0,0.0,0,1
-Staff (IS),Staff,IS,0.0,0.0,0.0,0,6
+Staff (IS),Staff,IS,0.0,0.0,0.0,0,3
 Chalmers (IS),Chalmers,IS,0.0,0.0,0.0,0,1
 Scott (IS),Scott,IS,0.0,0.0,0.0,0,1
 Khodadadian (ISE),Khodadadian,ISE,0.0,0.0,0.0,0,2
@@ -5657,8 +5660,8 @@ Staff (LAR),Staff,LAR,0.0,0.0,0.0,0,4
 McCain (LDRS),McCain,LDRS,0.0,0.0,0.0,0,1
 Staff (LDRS),Staff,LDRS,0.0,0.0,0.0,0,1
 Staff (MACR),Staff,MACR,0.0,0.0,0.0,0,1
-Staff (MATH),Staff,MATH,0.0,0.0,0.0,0,155
-Huq Kuruvilla (MATH),Huq Kuruvilla,MATH,0.0,0.0,0.0,0,1
+Staff (MATH),Staff,MATH,0.0,0.0,0.0,0,154
+Huq-Kuruvilla (MATH),Huq-Kuruvilla,MATH,0.0,0.0,0.0,0,1
 Sanmugadas (MATH),Sanmugadas,MATH,0.0,0.0,0.0,0,1
 Hole (MATH),Hole,MATH,0.0,0.0,0.0,0,1
 Tahmasian (MATH),Tahmasian,MATH,0.0,0.0,0.0,0,1
@@ -5669,8 +5672,9 @@ Bowen (ME),Bowen,ME,0.0,0.0,0.0,0,1
 Tahmasian (ME),Tahmasian,ME,0.0,0.0,0.0,0,1
 Clark (MGT),Clark,MGT,0.0,0.0,0.0,0,1
 Hopkins (MGT),Hopkins,MGT,0.0,0.0,0.0,0,4
-Staff (MGT),Staff,MGT,0.0,0.0,0.0,0,11
+Staff (MGT),Staff,MGT,0.0,0.0,0.0,0,10
 Shin (MGT),Shin,MGT,0.0,0.0,0.0,0,2
+Smalls Brown (MGT),Smalls Brown,MGT,0.0,0.0,0.0,0,1
 White (MGT),White,MGT,0.0,0.0,0.0,0,2
 Russell (MGT),Russell,MGT,0.0,0.0,0.0,0,2
 Kim (MGT),Kim,MGT,0.0,0.0,0.0,0,1
@@ -5681,7 +5685,7 @@ Kogan (MKTG),Kogan,MKTG,0.0,0.0,0.0,0,1
 Ahmed (MKTG),Ahmed,MKTG,0.0,0.0,0.0,0,2
 Zhu (MKTG),Zhu,MKTG,0.0,0.0,0.0,0,3
 Vitak (MKTG),Vitak,MKTG,0.0,0.0,0.0,0,1
-Dhillon Jamerson (MKTG),Dhillon Jamerson,MKTG,0.0,0.0,0.0,0,1
+Dhillon-Jamerson (MKTG),Dhillon-Jamerson,MKTG,0.0,0.0,0.0,0,1
 Staff (MKTG),Staff,MKTG,0.0,0.0,0.0,0,3
 Bloomer (MN),Bloomer,MN,0.0,0.0,0.0,0,2
 Graves (MN),Graves,MN,0.0,0.0,0.0,0,2
@@ -5697,6 +5701,7 @@ Figg (MSE),Figg,MSE,0.0,0.0,0.0,0,1
 Knoeckel (MUS),Knoeckel,MUS,0.0,0.0,0.0,0,4
 Baldwin (MUS),Baldwin,MUS,0.0,0.0,0.0,0,4
 Sato (MUS),Sato,MUS,0.0,0.0,0.0,0,1
+Clark (MUS),Clark,MUS,0.0,0.0,0.0,0,1
 Staff (NANO),Staff,NANO,0.0,0.0,0.0,0,1
 Kropp (NEUR),Kropp,NEUR,0.0,0.0,0.0,0,1
 Soliman (NEUR),Soliman,NEUR,0.0,0.0,0.0,0,1
@@ -5704,14 +5709,14 @@ Staff (NEUR),Staff,NEUR,0.0,0.0,0.0,0,2
 Langowsky (NEUR),Langowsky,NEUR,0.0,0.0,0.0,0,1
 Kamran (NR),Kamran,NR,0.0,0.0,0.0,0,1
 Freeman (NSEG),Freeman,NSEG,0.0,0.0,0.0,0,3
-Staff (NSEG),Staff,NSEG,0.0,0.0,0.0,0,3
+Staff (NSEG),Staff,NSEG,0.0,0.0,0.0,0,2
 Datz (PAPA),Datz,PAPA,0.0,0.0,0.0,0,1
 Halfon (PAPA),Halfon,PAPA,0.0,0.0,0.0,0,1
 Debrix (PHIL),Debrix,PHIL,0.0,0.0,0.0,0,1
 Olson (PHIL),Olson,PHIL,0.0,0.0,0.0,0,1
 Gautam (PHS),Gautam,PHS,0.0,0.0,0.0,0,3
-Staff (PHYS),Staff,PHYS,0.0,0.0,0.0,0,5
 Cao (PHYS),Cao,PHYS,0.0,0.0,0.0,0,2
+Ivanov (PHYS),Ivanov,PHYS,0.0,0.0,0.0,0,1
 Gawrys (PM),Gawrys,PM,0.0,0.0,0.0,0,1
 Staff (PPE),Staff,PPE,0.0,0.0,0.0,0,1
 Kitchens (PPE),Kitchens,PPE,0.0,0.0,0.0,0,1
@@ -5723,7 +5728,7 @@ Tideman (PPE),Tideman,PPE,0.0,0.0,0.0,0,1
 Pilot (PPWS),Pilot,PPWS,0.0,0.0,0.0,0,1
 Deuyour (PR),Deuyour,PR,0.0,0.0,0.0,0,1
 Mielczarek (PR),Mielczarek,PR,0.0,0.0,0.0,0,1
-Staff (PSCI),Staff,PSCI,0.0,0.0,0.0,0,6
+Staff (PSCI),Staff,PSCI,0.0,0.0,0.0,0,3
 Davila Saad (PSCI),Davila Saad,PSCI,0.0,0.0,0.0,0,1
 Debrix (PSCI),Debrix,PSCI,0.0,0.0,0.0,0,2
 Briceno Mosquera (PSCI),Briceno Mosquera,PSCI,0.0,0.0,0.0,0,1
@@ -5738,7 +5743,7 @@ Cash (PSYC),Cash,PSYC,0.0,0.0,0.0,0,1
 Romer (PSYC),Romer,PSYC,0.0,0.0,0.0,0,1
 Neal (PSYC),Neal,PSYC,0.0,0.0,0.0,0,1
 Shafer (PSYC),Shafer,PSYC,0.0,0.0,0.0,0,2
-Kempker Margherio (PSYC),Kempker Margherio,PSYC,0.0,0.0,0.0,0,1
+Kempker-Margherio (PSYC),Kempker-Margherio,PSYC,0.0,0.0,0.0,0,1
 Mayock (REAL),Mayock,REAL,0.0,0.0,0.0,0,2
 Xiao (REAL),Xiao,REAL,0.0,0.0,0.0,0,1
 Gawrys (RED),Gawrys,RED,0.0,0.0,0.0,0,2
@@ -5771,13 +5776,12 @@ Nizamani (STAT),Nizamani,STAT,0.0,0.0,0.0,0,1
 Harden (STAT),Harden,STAT,0.0,0.0,0.0,0,1
 Stewart (STAT),Stewart,STAT,0.0,0.0,0.0,0,2
 Schabenberger (STAT),Schabenberger,STAT,0.0,0.0,0.0,0,1
-Staff (STS),Staff,STS,0.0,0.0,0.0,0,2
-Haines (STS),Haines,STS,0.0,0.0,0.0,0,1
 Kiran (STS),Kiran,STS,0.0,0.0,0.0,0,1
 Steinhauer (STS),Steinhauer,STS,0.0,0.0,0.0,0,1
 Dawkins (STS),Dawkins,STS,0.0,0.0,0.0,0,1
 Woods (STS),Woods,STS,0.0,0.0,0.0,0,1
 Schenk (STS),Schenk,STS,0.0,0.0,0.0,0,2
+Staff (STS),Staff,STS,0.0,0.0,0.0,0,1
 Childs (SYSB),Childs,SYSB,0.0,0.0,0.0,0,1
 Hauf (SYSB),Hauf,SYSB,0.0,0.0,0.0,0,1
 Staff (SYSB),Staff,SYSB,0.0,0.0,0.0,0,4
@@ -5796,6 +5800,7 @@ Venkataraman (UAP),Venkataraman,UAP,0.0,0.0,0.0,0,1
 Manthapuri (UAP),Manthapuri,UAP,0.0,0.0,0.0,0,1
 Levinson (UAP),Levinson,UAP,0.0,0.0,0.0,0,1
 Staff (UAP),Staff,UAP,0.0,0.0,0.0,0,3
+Wagle (UAP),Wagle,UAP,0.0,0.0,0.0,0,2
 Hammer (UH),Hammer,UH,0.0,0.0,0.0,0,1
 Jain (UH),Jain,UH,0.0,0.0,0.0,0,3
 Staff (UH),Staff,UH,0.0,0.0,0.0,0,3
@@ -5804,7 +5809,7 @@ Ruiz Geli (UH),Ruiz Geli,UH,0.0,0.0,0.0,0,3
 Vandyke (UH),Vandyke,UH,0.0,0.0,0.0,0,1
 Williams (UH),Williams,UH,0.0,0.0,0.0,0,1
 Arnold (UNIV),Arnold,UNIV,0.0,0.0,0.0,0,2
-Leon Ledezma (UNIV),Leon Ledezma,UNIV,0.0,0.0,0.0,0,1
+Leon-Ledezma (UNIV),Leon-Ledezma,UNIV,0.0,0.0,0.0,0,1
 Hosig (VM),Hosig,VM,0.0,0.0,0.0,0,1
 Hodgson (VM),Hodgson,VM,0.0,0.0,0.0,0,1
 Santonastaso (VM),Santonastaso,VM,0.0,0.0,0.0,0,1
@@ -5813,7 +5818,7 @@ Wilson (VM),Wilson,VM,0.0,0.0,0.0,0,2
 Elnady (VM),Elnady,VM,0.0,0.0,0.0,0,1
 Witonsky (VM),Witonsky,VM,0.0,0.0,0.0,0,1
 Nappier (VM),Nappier,VM,0.0,0.0,0.0,0,1
-Clark Deener (VM),Clark Deener,VM,0.0,0.0,0.0,0,1
+Clark-Deener (VM),Clark-Deener,VM,0.0,0.0,0.0,0,2
 Wilkinson (VM),Wilkinson,VM,0.0,0.0,0.0,0,1
 Rist (VM),Rist,VM,0.0,0.0,0.0,0,2
 Fogelberg (VM),Fogelberg,VM,0.0,0.0,0.0,0,3
@@ -5829,10 +5834,9 @@ Davis (VM),Davis,VM,0.0,0.0,0.0,0,1
 Funk (VM),Funk,VM,0.0,0.0,0.0,0,1
 McKenzie (VM),McKenzie,VM,0.0,0.0,0.0,0,1
 Strandberg (VM),Strandberg,VM,0.0,0.0,0.0,0,1
-Cooper Bailey (VM),Cooper Bailey,VM,0.0,0.0,0.0,0,2
+Cooper-Bailey (VM),Cooper-Bailey,VM,0.0,0.0,0.0,0,2
 Carvallo (VM),Carvallo,VM,0.0,0.0,0.0,0,1
 Burns (VM),Burns,VM,0.0,0.0,0.0,0,1
-Jimenez Medrano (VM),Jimenez Medrano,VM,0.0,0.0,0.0,0,1
 LeRoith (VM),LeRoith,VM,0.0,0.0,0.0,0,1
 Hernandez (WGS),Hernandez,WGS,0.0,0.0,0.0,0,4
 Money (WGS),Money,WGS,0.0,0.0,0.0,0,1

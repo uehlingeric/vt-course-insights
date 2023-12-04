@@ -67,14 +67,28 @@ const DepartmentDetail = () => {
     }
   };
 
+  const calculateWithdrawRate = (withdraw, enrollment) => {
+    if (enrollment === 0) return 0; // Avoid division by zero
+    return (withdraw / enrollment) * 100; // Return a numeric value
+  };
+
   const sortedCourses = React.useMemo(() => {
     let sortableItems = [...courses];
     if (sortConfig.key !== null) {
       sortableItems.sort((a, b) => {
-        if (a[sortConfig.key] < b[sortConfig.key]) {
+        let aValue = a[sortConfig.key];
+        let bValue = b[sortConfig.key];
+
+        // Special handling for withdraw_rate
+        if (sortConfig.key === 'withdraw_rate') {
+          aValue = calculateWithdrawRate(a.withdraw, a.enrollment);
+          bValue = calculateWithdrawRate(b.withdraw, b.enrollment);
+        }
+
+        if (aValue < bValue) {
           return sortConfig.direction === 'ascending' ? -1 : 1;
         }
-        if (a[sortConfig.key] > b[sortConfig.key]) {
+        if (aValue > bValue) {
           return sortConfig.direction === 'ascending' ? 1 : -1;
         }
         return 0;
@@ -82,6 +96,7 @@ const DepartmentDetail = () => {
     }
     return sortableItems;
   }, [courses, sortConfig]);
+
 
   const filteredAndSortedCourses = sortedCourses.filter(course =>
     course.course_id.toLowerCase().includes(searchTerm.toLowerCase()) ||
@@ -92,10 +107,19 @@ const DepartmentDetail = () => {
     let sortableItems = [...instructors];
     if (sortConfig.key !== null) {
       sortableItems.sort((a, b) => {
-        if (a[sortConfig.key] < b[sortConfig.key]) {
+        let aValue = a[sortConfig.key];
+        let bValue = b[sortConfig.key];
+
+        // Special handling for withdraw_rate
+        if (sortConfig.key === 'withdraw_rate') {
+          aValue = calculateWithdrawRate(a.withdraw, a.enrollment);
+          bValue = calculateWithdrawRate(b.withdraw, b.enrollment);
+        }
+
+        if (aValue < bValue) {
           return sortConfig.direction === 'ascending' ? -1 : 1;
         }
-        if (a[sortConfig.key] > b[sortConfig.key]) {
+        if (aValue > bValue) {
           return sortConfig.direction === 'ascending' ? 1 : -1;
         }
         return 0;
@@ -103,6 +127,7 @@ const DepartmentDetail = () => {
     }
     return sortableItems;
   }, [instructors, sortConfig]);
+
 
   const filteredAndSortedInstructors = sortedInstructors.filter(instructor =>
     instructor.instructor_id.toLowerCase().includes(searchTerm.toLowerCase())
@@ -131,6 +156,7 @@ const DepartmentDetail = () => {
                 <th onClick={() => requestSort('gpa')}>GPA{getSortDirectionIndicator('gpa')}</th>
                 <th onClick={() => requestSort('enrollment')}>Enrollment{getSortDirectionIndicator('enrollment')}</th>
                 <th onClick={() => requestSort('withdraw')}>Withdraw{getSortDirectionIndicator('withdraw')}</th>
+                <th onClick={() => requestSort('withdraw_rate')}>Withdraw Rate{getSortDirectionIndicator('withdraw_rate')}</th>
                 <th onClick={() => requestSort('past_classes')}>Past Classes{getSortDirectionIndicator('past_classes')}</th>
                 <th onClick={() => requestSort('new_classes')}>New Classes{getSortDirectionIndicator('new_classes')}</th>
               </tr>
@@ -146,6 +172,7 @@ const DepartmentDetail = () => {
                   <td>{course.gpa.toFixed(2)}</td>
                   <td>{course.enrollment.toFixed(2)}</td>
                   <td>{course.withdraw.toFixed(2)}</td>
+                  <td>{calculateWithdrawRate(course.withdraw, course.enrollment).toFixed(2)}%</td>
                   <td>{course.past_classes}</td>
                   <td>{course.new_classes}</td>
                 </tr>
@@ -170,6 +197,7 @@ const DepartmentDetail = () => {
                 <th onClick={() => requestSort('gpa')}>GPA{getSortDirectionIndicator('gpa')}</th>
                 <th onClick={() => requestSort('enrollment')}>Enrollment{getSortDirectionIndicator('enrollment')}</th>
                 <th onClick={() => requestSort('withdraw')}>Withdraw{getSortDirectionIndicator('withdraw')}</th>
+                <th onClick={() => requestSort('withdraw_rate')}>Withdraw Rate{getSortDirectionIndicator('withdraw_rate')}</th>
                 <th onClick={() => requestSort('past_classes')}>Past Classes{getSortDirectionIndicator('past_classes')}</th>
                 <th onClick={() => requestSort('new_classes')}>New Classes{getSortDirectionIndicator('new_classes')}</th>
               </tr>
@@ -183,6 +211,7 @@ const DepartmentDetail = () => {
                   <td>{instructor.gpa.toFixed(2)}</td>
                   <td>{instructor.enrollment.toFixed(2)}</td>
                   <td>{instructor.withdraw.toFixed(2)}</td>
+                  <td>{calculateWithdrawRate(instructor.withdraw, instructor.enrollment).toFixed(2)}%</td>
                   <td>{instructor.past_classes}</td>
                   <td>{instructor.new_classes}</td>
                 </tr>

@@ -66,7 +66,7 @@ ACIS 1004,ACIS,Accounting Foundations,3,3.31,227.6,8.9,10,1
 ACIS 1104,ACIS,Careers in ACIS,1,3.46,22.0,1.0,2,1
 ACIS 1504,ACIS,Intro to Bus Analytics & BI,3,3.21,185.02,2.93,46,4
 ACIS 2115,ACIS,Principles of Accounting,3,3.02,45.68,2.49,160,15
-ACIS 2116,ACIS,Principles of Accounting,3,2.88,35.81,2.42,135,8
+ACIS 2116,ACIS,Principles of Accounting,3,2.88,35.81,2.42,135,7
 ACIS 2504,ACIS,Special Study,3,2.83,135.4,6.6,20,3
 ACIS 3115,ACIS,Special Study,3,2.79,24.48,3.09,46,3
 ACIS 3116,ACIS,Special Study,3,2.98,28.34,0.79,29,2
@@ -261,12 +261,12 @@ AOE 4065,AOE,Special Study,3,3.15,63.0,0.0,5,0
 AOE 4066,AOE,Special Study,3,3.36,57.0,0.2,5,1
 AOE 4084,AOE,Engr Design Optimiz,3,3.18,30.8,0.4,5,2
 AOE 4105,AOE,Experiments for AE Design,1,3.84,17.15,0.0,39,0
-AOE 4106,AOE,Experiments for AE Design,1,4.0,16.2,0.02,40,11
+AOE 4106,AOE,Experiments for AE Design,1,4.0,16.2,0.02,40,12
 AOE 4114,AOE,Appl Comput Aerodyn,3,3.69,15.5,0.5,4,1
 AOE 4124,AOE,Configuration Aerodynamics,3,3.58,16.0,0.0,4,0
 AOE 4154,AOE,Aero Engr Lab,1,2.97,16.88,0.25,8,0
 AOE 4165,AOE,Special Study,3,3.31,93.6,0.0,5,0
-AOE 4166,AOE,Special Study,3,3.42,91.0,0.0,5,1
+AOE 4166,AOE,Special Study,3,3.42,91.0,0.0,5,2
 AOE 4174,AOE,Spacecraft Propulsion,3,2.95,30.33,1.83,6,1
 AOE 4205,AOE,Exper for Ocean Vehicle Design,1,3.13,7.78,0.0,9,0
 AOE 4206,AOE,Exper for Ocean Vehicle Design,1,3.52,9.86,0.0,7,2
@@ -326,7 +326,7 @@ AOE 5754,AOE,Applied Linear Systems,3,3.78,8.5,0.0,4,0
 AOE 5764,AOE,Applied Linear Control,3,3.7,7.25,0.0,4,2
 AOE 5774,AOE,Nonlinear Systems Theory,3,3.8,6.67,0.0,3,0
 AOE 5784,AOE,Estimation and Filtering,4,3.78,7.0,0.0,2,0
-AOE 5984,AOE,Special Study,3,3.73,8.19,0.05,21,0
+AOE 5984,AOE,Special Study,3,3.73,8.19,0.05,21,2
 AOE 6114,AOE,Transonic Aerodynamics,3,4.0,5.0,0.0,1,0
 AOE 6124,AOE,Hypersonic Aerodynamics,3,3.64,7.17,0.0,6,0
 AOE 6174,AOE,Computational Plasma Dynamics,3,3.6,6.5,0.0,4,0
@@ -341,7 +341,7 @@ APS 2404,APS,Folk Cultures in Appalachia,3,3.32,25.0,1.33,3,1
 APS 2434,APS,Cult Politics Music Appalachia,3,3.49,32.0,0.0,2,1
 APS 3124,APS,Societal Health,3,3.45,6.0,0.0,1,0
 APS 3464,APS,Appalachian Communities,3,4.0,5.0,0.0,1,0
-APS 3624,APS,Appalachian Literature,3,3.13,8.0,0.0,1,1
+APS 3624,APS,Appalachian Literature,3,3.13,8.0,0.0,1,0
 APS 4034,APS,Appalachian Lang & Cultures,3,3.67,9.0,0.0,1,0
 APS 4094,APS,Appalachian Community Research,3,3.73,5.0,0.0,2,0
 APS 4404,APS,Appalachian Folk Cultures,3,3.33,12.0,2.0,1,0
@@ -359,7 +359,7 @@ APSC 2164,APSC,Comp/Lab Anim Care & Handling,1,3.71,22.0,0.07,27,3
 APSC 2424,APSC,Introduction Equine Industry,3,3.67,63.0,0.2,5,1
 APSC 2464,APSC,Intro Companion Animals,2,3.85,39.0,0.0,2,0
 APSC 2824,APSC,Equine Conform & Biomechanics,2,3.81,28.5,0.0,2,0
-APSC 2984,APSC,Special Study,3,3.3,6.0,0.33,3,0
+APSC 2984,APSC,Special Study,3,3.3,6.0,0.33,3,4
 APSC 3064,APSC,Comp/Lab Animal Science,3,3.25,106.0,0.4,5,0
 APSC 3134,APSC,Animal Ag and the Environment,3,3.71,28.33,0.5,6,1
 APSC 3214,APSC,Principles of Meat Science,3,2.49,17.5,0.0,4,0
@@ -371,7 +371,7 @@ APSC 3514,APSC,"Animal Growth, Dev & Eval",3,2.43,8.0,1.0,1,0
 APSC 3754,APSC,Livestock Evaluation,2,3.56,7.6,0.0,5,0
 APSC 3764,APSC,Livestock Merchandising,2,3.56,38.5,0.0,4,0
 APSC 3824,APSC,Equine Behavior and Training,2,3.91,7.25,0.0,8,0
-APSC 3954,APSC,Special Study,2,3.9,15.0,0.0,2,1
+APSC 3954,APSC,Special Study,2,3.9,15.0,0.0,2,2
 APSC 3984,APSC,Special Study,1,3.48,16.75,0.0,4,0
 APSC 4004,APSC,Contemporary Issues in APSC,3,3.81,14.33,0.06,52,6
 APSC 4054,APSC,Genomics,3,3.9,9.0,0.0,3,0
@@ -385,7 +385,7 @@ APSC 4444,APSC,Swine Production,3,3.43,11.6,0.0,5,1
 APSC 4464,APSC,Comp/Lab Anim Health & Mgt,4,3.42,26.06,0.0,17,4
 APSC 4514,APSC,Animal Growth and Development,3,2.63,15.0,0.75,4,1
 APSC 4554,APSC,Adv Livestock Enterprise Mgmt,3,3.76,13.6,0.0,5,1
-APSC 4984,APSC,Special Study,2,3.68,8.71,0.0,7,1
+APSC 4984,APSC,Special Study,2,3.68,8.71,0.0,7,2
 APSC 5014,APSC,Professional Dev/Grad Students,2,3.99,20.5,0.0,4,0
 APSC 5134,APSC,Appl Behavior Analysis Animals,3,3.65,29.0,0.0,2,0
 APSC 5154,APSC,Behv Biol Domesticated Animals,3,3.66,17.75,0.0,4,1
@@ -440,19 +440,19 @@ ARCH 4056,ARCH,Envir Bldg Systems,3,3.18,108.17,0.83,6,1
 ARCH 4075,ARCH,Building Structures,3,3.03,61.8,4.8,10,2
 ARCH 4076,ARCH,Building Structures,3,3.02,62.3,1.9,10,0
 ARCH 4114,ARCH,Ideas-Concepts-Representations,2,3.54,20.89,0.31,36,3
-ARCH 4164,ARCH,Special Study,3,3.82,10.31,0.62,13,1
+ARCH 4164,ARCH,Special Study,3,3.82,10.31,0.62,13,0
 ARCH 4204,ARCH,Urban Tech & Arch,3,3.59,10.55,0.0,11,2
 ARCH 4214,ARCH,Special Study,3,3.63,12.27,0.0,11,4
 ARCH 4304,ARCH,Special Study,3,3.9,9.91,0.0,11,9
 ARCH 4514,ARCH,Thesis Inquiry,3,3.8,7.76,0.0,29,0
 ARCH 4515,ARCH,Architecture V,6,3.74,7.54,0.02,48,0
-ARCH 4516,ARCH,Architecture V,6,3.73,7.64,0.02,47,25
-ARCH 4524,ARCH,Thesis Documentation,3,3.73,7.08,0.03,38,23
+ARCH 4516,ARCH,Architecture V,6,3.73,7.64,0.02,47,26
+ARCH 4524,ARCH,Thesis Documentation,3,3.73,7.08,0.03,38,24
 ARCH 4705,ARCH,Qualifying Design Seminar,3,3.89,11.4,0.0,5,0
 ARCH 4706,ARCH,Qualifying Design Seminar,3,3.88,10.2,0.0,5,1
 ARCH 4715,ARCH,Qualifying Design Laboratory,9,3.75,10.8,0.0,5,0
 ARCH 4716,ARCH,Qualifying Design Laboratory,9,3.79,10.6,0.0,5,1
-ARCH 4954,ARCH,Special Study,3,3.99,12.0,0.0,5,1
+ARCH 4954,ARCH,Special Study,3,3.99,12.0,0.0,5,0
 ARCH 4964,ARCH,Special Study,3,3.9,6.25,0.0,4,0
 ARCH 4974,ARCH,Special Study,1,3.88,11.35,0.12,17,0
 ARCH 4984,ARCH,Special Study,3,3.86,14.0,0.0,6,1
@@ -461,12 +461,12 @@ ARCH 5036,ARCH,Special Study,0,3.96,14.8,0.0,5,2
 ARCH 5044,ARCH,Professional Practice,3,3.65,9.21,0.0,19,0
 ARCH 5045,ARCH,Environmental Design Research,3,3.7,9.4,0.0,5,0
 ARCH 5056,ARCH,Advanced Building Structures,3,2.46,5.0,0.0,1,1
-ARCH 5064,ARCH,Special Study,3,3.89,9.12,0.0,25,5
+ARCH 5064,ARCH,Special Study,3,3.89,9.12,0.0,25,4
 ARCH 5115,ARCH,Media & Environment,0,3.9,7.27,0.0,11,0
 ARCH 5116,ARCH,Media & Environment,3,3.79,6.47,0.06,17,2
 ARCH 5125,ARCH,Special Study,3,3.86,8.86,0.0,7,0
 ARCH 5126,ARCH,Special Study,3,3.95,9.29,0.0,7,1
-ARCH 5134,ARCH,Special Study,3,3.79,9.37,0.0,49,9
+ARCH 5134,ARCH,Special Study,3,3.79,9.37,0.0,49,10
 ARCH 5515,ARCH,Arch & Systems Lab,6,3.62,8.8,0.0,5,0
 ARCH 5516,ARCH,Arch & Systems Lab,6,3.73,7.8,0.0,5,1
 ARCH 5565,ARCH,Bldg Materials & Construction,3,3.71,14.56,0.0,9,0
@@ -563,7 +563,7 @@ ART 5534,ART,Special Study,3,3.95,9.43,0.0,7,1
 ART 5564,ART,Advanced Exhibition Design,3,3.88,6.0,0.0,1,0
 ART 5584,ART,Special Study,3,3.92,6.8,0.0,5,0
 ART 5604,ART,Special Study,3,4.0,7.73,0.0,11,6
-ART 5704,ART,Special Study,3,3.95,5.75,0.0,4,3
+ART 5704,ART,Special Study,3,3.95,5.75,0.0,4,1
 ART 5724,ART,Projection Mapping,3,4.0,5.0,0.0,1,0
 ART 5854,ART,Adv Art Theories & Processes,3,4.0,6.67,0.0,3,0
 AS 1115,AS,Introduction to the Air Force,1,3.69,26.1,0.05,20,0
@@ -849,7 +849,7 @@ BIT 5664,BIT,Managing Global Supply Chain,2,3.78,19.25,0.0,4,1
 BIT 5724,BIT,Managerial Statistics,3,3.69,24.1,0.0,10,0
 BIT 5954,BIT,Study Abroad,2,3.83,9.0,0.0,4,0
 BIT 5964,BIT,Field Study,2,3.93,15.0,0.0,3,0
-BIT 5984,BIT,Special Study,2,3.67,11.86,0.0,7,0
+BIT 5984,BIT,Special Study,2,3.67,11.86,0.0,7,2
 BIT 6324,BIT,Design Science Seminar,3,3.84,6.0,0.0,2,1
 BIT 6334,BIT,Operations Management Seminar,3,3.54,7.0,0.0,1,0
 BIT 6344,BIT,Decision Analytics Seminar,3,3.73,7.0,0.0,1,0
@@ -896,7 +896,7 @@ BMES 5574,BMES,Advanced Biomaterials,3,3.88,6.0,0.0,1,1
 BMES 5604,BMES,Cancer Detection Therapeutics,3,3.97,10.0,0.0,1,0
 BMES 5614,BMES,Multiscale Cancer Engineering,3,3.96,7.0,0.0,1,0
 BMES 5714,BMES,Biomedical Microdevices,3,3.86,10.0,0.0,2,0
-BMES 5984,BMES,Special Study,3,3.9,7.92,0.08,12,5
+BMES 5984,BMES,Special Study,3,3.9,7.92,0.08,12,6
 BMES 6064,BMES,Clinical Rotation,2,3.95,6.0,0.0,1,1
 BMES 6194,BMES,Advanced Movement Assessment,3,4.0,6.5,0.0,2,0
 BMSP 2135,BMSP,Human Anatomy & Physiology,3,2.67,307.6,22.8,5,0
@@ -1028,7 +1028,7 @@ CEE 4804,CEE,Prof & Legal Issues Civil Eng,3,3.64,123.3,0.1,10,1
 CEE 4824,CEE,Intro to Forensic Engineering,3,3.61,26.0,0.0,1,1
 CEE 4844,CEE,Special Study,3,3.28,30.33,0.67,3,1
 CEE 4974,CEE,Independent Study,1,3.98,7.0,0.0,2,0
-CEE 4984,CEE,Special Study,3,3.77,11.0,0.0,5,0
+CEE 4984,CEE,Special Study,3,3.77,11.0,0.0,5,1
 CEE 4994,CEE,Undergraduate Research,3,4.0,7.0,0.0,1,0
 CEE 5004,CEE,Adaptive Reuse & Redevelopment,3,3.86,33.0,0.0,1,1
 CEE 5010,CEE,Schedule Impact Analysis,3,3.54,5.0,0.0,1,0
@@ -1294,7 +1294,7 @@ CMDA 3654,CMDA,Intro Data Analytics & Visual,3,3.36,34.58,0.62,24,3
 CMDA 4314,CMDA,Big Data Economics,3,3.18,10.0,2.0,1,1
 CMDA 4604,CMDA,Int Topics in Math Modeling,3,3.37,9.5,1.0,2,1
 CMDA 4634,CMDA,Scalable Computing for CMDA,3,3.63,9.0,0.0,1,0
-CMDA 4654,CMDA,Intermed Data Analytics & ML,3,3.28,44.75,0.81,16,2
+CMDA 4654,CMDA,Intermed Data Analytics & ML,3,3.28,44.75,0.81,16,3
 CMDA 4664,CMDA,Comp Int Stochastic Mod,3,3.53,22.67,0.33,3,1
 CMDA 4864,CMDA,Comp Mod Data Analyt Capstone,3,3.73,51.0,0.0,13,2
 CMDA 4984,CMDA,Special Study,3,3.76,13.6,0.6,5,1
@@ -1788,7 +1788,7 @@ ECE 5764,ECE,Applied Linear Control,3,3.56,15.6,0.2,5,2
 ECE 5774,ECE,Nonlinear Systems Theory,3,3.77,5.67,0.0,3,0
 ECE 5805,ECE,Graduate Design Project,3,4.0,10.0,0.0,3,0
 ECE 5806,ECE,Graduate Design Project,3,4.0,11.0,0.0,1,1
-ECE 5984,ECE,Special Study,3,3.85,11.53,0.02,53,11
+ECE 5984,ECE,Special Study,3,3.85,11.53,0.02,53,13
 ECE 6104,ECE,Special Study,3,3.82,7.25,0.0,4,0
 ECE 6116,ECE,"Antenna Theory and Design I,II",3,2.95,6.0,0.0,1,1
 ECE 6124,ECE,Advanced Numerical EM,3,3.6,5.0,0.0,1,0
@@ -2097,7 +2097,7 @@ ENGL 3514,ENGL,Ethnic Literature for Children,3,3.57,24.0,0.33,3,0
 ENGL 3524,ENGL,Literature for Children,3,3.75,29.62,0.5,8,0
 ENGL 3534,ENGL,Special Study,3,3.65,18.58,0.25,12,0
 ENGL 3544,ENGL,Literature and Cinema,3,3.45,14.86,0.57,7,1
-ENGL 3624,ENGL,Appalachian Literature,3,3.34,13.0,0.0,2,1
+ENGL 3624,ENGL,Appalachian Literature,3,3.34,13.0,0.0,2,0
 ENGL 3634,ENGL,African-American Literature,3,3.22,6.0,0.0,1,0
 ENGL 3644,ENGL,The Postcolonial Novel,3,3.68,8.33,0.67,3,0
 ENGL 3654,ENGL,Ethnic American Literature,3,4.0,5.0,0.0,1,1
@@ -2296,7 +2296,7 @@ ESM 5554,ESM,Turbulence and Turbulent Flows,3,3.84,7.6,0.0,5,0
 ESM 5734,ESM,Intro Finite Elements,3,3.54,10.8,0.0,5,0
 ESM 5744,ESM,Variational Methods,3,3.73,6.0,0.0,1,1
 ESM 5754,ESM,Intro Perturbations,3,3.97,5.0,0.0,2,0
-ESM 6024,ESM,Mechanics of Soft Tissues,3,3.58,6.0,0.0,1,1
+ESM 6024,ESM,Mechanics of Soft Tissues,3,3.58,6.0,0.0,1,0
 ESM 6164,ESM,Comp Mod Impact Biomechanics,3,3.8,5.0,0.0,1,0
 ESM 6314,ESM,Advanced Dynamics,3,4.0,11.0,0.0,1,0
 ESM 6714,ESM,Applied Tensor Analysis,3,4.0,5.0,0.0,1,0
@@ -2305,10 +2305,10 @@ FA 2004,FA,Creativity & the Artistic Exp,3,3.58,177.6,1.9,10,0
 FIN 2114,FIN,Invest & Financial Literacy,3,3.4,33.47,0.94,49,5
 FIN 3054,FIN,Special Study,3,2.92,100.73,2.61,71,8
 FIN 3074,FIN,Legal & Finance Entrepreneurs,3,3.77,13.67,0.0,6,1
-FIN 3104,FIN,Introduction to Finance,3,3.03,163.95,4.22,41,6
+FIN 3104,FIN,Introduction to Finance,3,3.03,163.95,4.22,41,5
 FIN 3114,FIN,"Python-Data Analytics, Finance",3,3.27,12.57,0.29,7,2
 FIN 3124,FIN,Fin Planning for Professionals,3,2.82,31.2,1.7,10,1
-FIN 3134,FIN,Financial Analytics,3,2.74,31.3,3.5,76,11
+FIN 3134,FIN,Financial Analytics,3,2.74,31.3,3.5,76,13
 FIN 3144,FIN,Investments: Debt-Equity-Deriv,3,2.92,29.48,1.18,56,5
 FIN 3154,FIN,Corporate Finance,3,2.96,30.91,0.96,53,4
 FIN 3174,FIN,Finance Career Strategies,1,3.79,9.0,0.09,11,1
@@ -2387,7 +2387,7 @@ FIW 5514,FIW,Fish Popn Dynamics,4,4.0,5.5,0.0,2,0
 FIW 5764,FIW,Systems Ecology & Conservation,3,4.0,11.0,0.0,1,0
 FIW 5774,FIW,Spatial Mdlg Species & Niches,3,3.87,11.0,0.0,1,1
 FIW 5984,FIW,Special Study,3,3.8,12.0,0.0,3,0
-FIW 6004,FIW,Special Study,1,3.94,8.18,0.0,11,1
+FIW 6004,FIW,Special Study,1,3.94,8.18,0.0,11,2
 FIW 6114,FIW,Applied Conservation Genetics,3,4.0,6.0,0.0,1,0
 FIW 6984,FIW,Special Study,3,3.83,8.0,0.0,3,0
 FL 5024,FL,Area Studies Methods,3,3.46,6.5,0.0,2,0
@@ -2407,7 +2407,7 @@ FMD 3034,FMD,His Costume/Textle Collect Mgt,3,3.84,21.0,0.0,1,1
 FMD 3104,FMD,Fashion Retailing Concepts,3,3.71,32.6,0.0,5,0
 FMD 3204,FMD,Textile Evaluation,3,3.4,15.36,0.18,11,1
 FMD 3224,FMD,Special Study,3,3.69,16.3,0.1,10,1
-FMD 3234,FMD,Special Study,3,3.7,16.2,0.2,5,1
+FMD 3234,FMD,Special Study,3,3.7,16.2,0.2,5,0
 FMD 3244,FMD,Small Bus Apparel Retail Dev,3,3.79,23.0,0.0,1,0
 FMD 3264,FMD,Draping,3,3.82,12.0,0.0,2,0
 FMD 4024,FMD,Portfolio,3,3.98,16.33,0.0,3,0
@@ -2812,7 +2812,7 @@ HIST 1354,HIST,Conflict Security in East Asia,3,3.05,33.2,0.6,5,0
 HIST 1764,HIST,History of Rock n Roll,3,3.53,90.83,0.5,6,0
 HIST 1984,HIST,SS: Reacting to the Past,3,3.54,19.5,0.0,2,0
 HIST 2004,HIST,Historical Methods,3,3.09,10.96,0.72,25,2
-HIST 2054,HIST,Engineering Cultures,3,3.46,12.96,0.29,48,4
+HIST 2054,HIST,Engineering Cultures,3,3.46,12.96,0.29,48,3
 HIST 2104,HIST,Special Study,3,3.33,30.0,0.61,28,0
 HIST 2114,HIST,Special Study,3,3.21,32.67,0.67,3,0
 HIST 2124,HIST,Special Study,3,3.38,29.3,0.9,10,3
@@ -3147,7 +3147,7 @@ IS 4114,IS,Topics in EU Policies,3,3.68,5.0,0.0,1,0
 IS 4124,IS,Topics in European Integration,3,3.4,5.0,0.0,1,0
 IS 4614,IS,Sr Sem Intl Relations,3,3.29,7.0,0.0,4,1
 IS 4734,IS,Int'l Conflict Management,3,3.22,11.0,0.0,2,0
-IS 4736,IS,Special Study,3,3.8,13.0,0.0,3,0
+IS 4736,IS,Special Study,3,3.8,13.0,0.0,3,1
 IS 4744,IS,Intelligence Analysis Workshop,3,3.83,12.67,1.0,3,1
 IS 4754,IS,Internship,9,3.89,6.33,0.0,3,0
 IS 4994,IS,Undergraduate Research,3,3.78,6.0,1.0,1,0
@@ -3415,7 +3415,7 @@ MATH 4044,MATH,History of Mathematics,3,3.14,16.4,0.4,5,0
 MATH 4124,MATH,Intr Abstract Algebra,3,3.18,11.0,1.33,6,0
 MATH 4134,MATH,Number Theory,3,3.0,26.0,1.4,5,1
 MATH 4144,MATH,Linear Algebra II,3,3.05,16.8,0.8,5,1
-MATH 4175,MATH,Cryptography,3,3.13,31.43,0.76,42,5
+MATH 4175,MATH,Cryptography,3,3.13,31.43,0.76,42,4
 MATH 4176,MATH,Cryptography,3,3.15,26.64,0.82,11,2
 MATH 4225,MATH,Elementary Real Analysis,3,3.06,11.73,0.18,11,0
 MATH 4226,MATH,Elementary Real Analysis,3,3.33,8.5,0.12,8,2
@@ -3547,7 +3547,7 @@ ME 5434,ME,Adv Intro Comp Fluid Dynamics,3,3.64,11.0,0.0,5,0
 ME 5444,ME,Interfacial Fluid Mechanics,3,3.53,18.5,0.0,2,1
 ME 5454,ME,Interfacial Thermo Transport,3,4.0,11.0,0.0,1,0
 ME 5514,ME,Vibrations Mech System,3,3.44,14.2,0.0,5,0
-ME 5524,ME,Bayesian Robotics,3,3.98,11.5,0.0,2,2
+ME 5524,ME,Bayesian Robotics,3,3.98,11.5,0.0,2,0
 ME 5544,ME,Linear Systems Theory,3,3.5,6.5,0.0,2,0
 ME 5554,ME,Applied Linear Systems,3,3.85,24.29,0.0,7,0
 ME 5564,ME,Applied Linear Control,3,3.68,19.33,0.17,6,2
@@ -3574,7 +3574,7 @@ ME 5824,ME,Human-Robot Interaction,3,3.26,17.0,0.5,2,0
 ME 5854,ME,Adv Nano/Micromechanics Matl,3,4.0,11.33,0.0,3,0
 ME 5864,ME,Advanced Micro/Nano-Robotics,3,3.35,9.0,0.0,3,0
 ME 5874,ME,Experimental Robotics,3,3.97,12.0,0.0,1,0
-ME 5924,ME,Vibration Continuous Systems,3,4.0,5.0,0.0,1,1
+ME 5924,ME,Vibration Continuous Systems,3,4.0,5.0,0.0,1,0
 ME 5984,ME,Special Study,3,3.8,9.38,0.14,21,2
 ME 6014,ME,Training for ME Professoriate,2,4.0,7.0,0.0,1,0
 ME 6434,ME,Comp Fluid Dyn Heat Trans,3,3.45,8.0,0.0,3,2
@@ -4381,7 +4381,7 @@ PSCI 4514,PSCI,Special Study,3,3.58,11.5,0.0,2,0
 PSCI 4714,PSCI,Sr Sem Policy Anlysis,3,3.81,10.4,0.0,5,1
 PSCI 4724,PSCI,Sr Sem Polit Theory,3,3.67,17.0,0.0,1,0
 PSCI 4734,PSCI,Int'l Conflict Management,3,3.4,11.0,0.0,1,0
-PSCI 4736,PSCI,Special Study,3,3.9,7.0,0.0,2,0
+PSCI 4736,PSCI,Special Study,3,3.9,7.0,0.0,2,1
 PSCI 4744,PSCI,Intelligence Analysis Workshop,3,3.74,9.0,0.0,1,1
 PSCI 4754,PSCI,Internship Program,3,3.95,8.27,0.0,11,0
 PSCI 4884,PSCI,Adv Philosophy Politics Econ,3,3.79,6.0,0.0,5,0
@@ -4450,7 +4450,7 @@ PSYC 4264,PSYC,Lab in Phys Psyc,1,3.78,14.65,0.0,20,0
 PSYC 4274,PSYC,Lab Sensa Percept,1,3.99,21.0,0.0,1,0
 PSYC 4284,PSYC,Lab in Social Psyc,1,3.88,18.54,0.15,13,2
 PSYC 4294,PSYC,Psyc Measurement Lab,1,3.35,16.67,0.33,3,0
-PSYC 4364,PSYC,Senior Seminar,3,3.63,21.92,0.15,53,6
+PSYC 4364,PSYC,Senior Seminar,3,3.63,21.92,0.15,53,5
 PSYC 4984,PSYC,SS: Predicting Social Behavior,3,3.82,32.0,1.0,2,0
 PSYC 4994,PSYC,Undergraduate Research,1,3.99,9.94,0.0,248,0
 PSYC 5114,PSYC,Industrial-Organizational Psyc,3,3.8,5.5,0.0,4,1
@@ -4462,7 +4462,7 @@ PSYC 5316,PSYC,Research  Methods,3,3.81,7.0,0.0,1,0
 PSYC 5344,PSYC,Cognitive Psychology,3,3.88,14.67,0.0,3,1
 PSYC 5404,PSYC,Biological Bases of Behavior,3,3.87,10.33,0.0,3,0
 PSYC 5544,PSYC,Cognitive Development,3,3.92,15.0,0.0,1,0
-PSYC 5984,PSYC,Special Study,3,3.94,9.0,0.0,2,1
+PSYC 5984,PSYC,Special Study,3,3.94,9.0,0.0,2,2
 PSYC 6014,PSYC,Quant Topics in I and O Psyc,3,3.97,12.0,0.0,2,0
 PSYC 6254,PSYC,Special Study,3,3.88,7.0,0.0,8,2
 PSYC 6264,PSYC,Child Psychopathology,3,3.98,5.75,0.0,4,0
@@ -4670,7 +4670,7 @@ SOC 5234,SOC,Soc Issues in College Pedagogy,3,3.94,10.5,0.0,2,1
 SOC 5614,SOC,Race Ethnic Health Disparities,3,3.5,6.0,0.0,2,0
 SOC 5624,SOC,Women and Work,3,3.83,5.0,0.0,3,0
 SOC 5714,SOC,Aging in Social Context,3,3.64,6.0,0.0,2,0
-SOC 5984,SOC,Special Study,3,3.9,6.33,0.0,6,1
+SOC 5984,SOC,Special Study,3,3.9,6.33,0.0,6,2
 SOC 6204,SOC,Survey Research Methods,3,3.85,13.0,0.0,1,0
 SOC 6214,SOC,Soc Issues in Qual Methodology,3,3.88,14.6,0.0,5,1
 SOC 6414,SOC,Theories Crime & Delinquency,3,4.0,9.0,0.0,1,0
@@ -4839,7 +4839,7 @@ STL 4324,STL,Global Aspects of IP,3,3.84,16.6,0.0,5,0
 STL 4334,STL,Patent Prep & Prosecution,3,4.0,10.25,0.0,4,1
 STS 1504,STS,"Intro Science, Tech, Society",3,3.41,22.03,0.33,39,2
 STS 2034,STS,Intro to Technology and Race,3,3.67,30.33,0.33,3,1
-STS 2054,STS,Engineering Cultures,3,3.39,9.46,0.18,39,4
+STS 2054,STS,Engineering Cultures,3,3.39,9.46,0.18,39,3
 STS 2154,STS,Special Study,3,3.5,26.0,0.4,5,1
 STS 2254,STS,Innovation in Context,3,3.65,22.0,0.0,10,1
 STS 2444,STS,Global Sci & Tech Policy,3,3.3,12.33,0.33,3,0
@@ -4938,7 +4938,7 @@ TBMH 5105,TBMH,Prof Development and Ethics,2,4.0,17.0,0.0,2,0
 TBMH 5106,TBMH,Prof Development and Ethics,2,3.99,18.25,0.0,4,1
 TBMH 5304,TBMH,Translational Research Exper,3,3.87,18.2,0.0,10,1
 TBMH 5404,TBMH,Scientific Logic and Analysis,1,3.93,16.2,0.0,5,0
-TBMH 5984,TBMH,Special Study,3,3.77,17.5,0.0,2,0
+TBMH 5984,TBMH,Special Study,3,3.77,17.5,0.0,2,1
 UAP 1004,UAP,Introduction to UAP Careers,1,3.67,44.4,0.6,5,0
 UAP 1024,UAP,Special Study,3,3.54,47.8,0.5,10,1
 UAP 2004,UAP,Principles of Real Estate,3,3.19,34.0,0.36,11,1
@@ -4980,7 +4980,7 @@ UAP 5424,UAP,Special Study,1,3.93,10.03,0.01,72,0
 UAP 5494,UAP,Adv Quant TecnQ Urban,3,3.46,8.0,0.0,1,0
 UAP 5524,UAP,Internat Development,3,3.71,6.0,0.0,3,0
 UAP 5554,UAP,Land Use Law & Planning,3,3.8,14.88,0.0,8,2
-UAP 5564,UAP,Info Tech Society & Policy,3,4.0,8.0,0.0,1,1
+UAP 5564,UAP,Info Tech Society & Policy,3,4.0,8.0,0.0,1,2
 UAP 5574,UAP,"Arts, Culture and Society",3,3.74,5.0,0.0,3,0
 UAP 5604,UAP,Housing Planng & Policy Topics,3,3.83,8.0,0.0,2,0
 UAP 5614,UAP,Special Study,3,3.91,6.5,0.0,2,0

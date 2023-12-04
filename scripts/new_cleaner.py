@@ -89,7 +89,7 @@ def standardize_modality(modality):
     :return: A standardized short form of the modality.
     """
     return {
-        'Face to Face Instruction': 'F2F',
+        'Face-to-Face Instruction': 'F2F',
         'Hybrid (F2F & Online Instruc.)': 'Hybrid',
         'Online with Synchronous Mtgs.': 'OnlineSync',
         'Online: Asynchronous': 'OnlineAsync',
@@ -102,10 +102,10 @@ def get_department(course):
     Extracts the department code from the course value.
     This is typically the first part of the course string.
 
-    :param course: The full course string (e.g., 'MATH 101').
+    :param course: The full course string (e.g., 'MATH-101').
     :return: The department code (e.g., 'MATH').
     """
-    return course.split()[0] if course else ''
+    return course.split('-')[0]
 
 
 def append_additional_times(initial_row, additional_row):
@@ -169,6 +169,8 @@ def process_csv(input_filename, output_filename, instructors_file):
             modality_standardized = standardize_modality(row['modality'])
             department = get_department(row['course'])
 
+            course_id = row['course'].replace('-', ' ')
+
             if row['days'] == '(ARR)':  # Handle '(ARR)' in Days
                 row['start_time'], row['end_time'] = '(ARR)', '(ARR)'
 
@@ -184,7 +186,7 @@ def process_csv(input_filename, output_filename, instructors_file):
             new_row = {
                 'crn': row['crn'],
                 'dept': department,
-                'course_id': row['course'],
+                'course_id': course_id,
                 'instructor_id': standardized_instructor_id,
                 'title': row['title'],
                 'modality': modality_standardized,

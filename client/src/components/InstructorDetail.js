@@ -89,6 +89,11 @@ const InstructorDetail = () => {
         return courses[courseId] || courseId; // Return the course title or the ID if not found
     }, [courses]);
 
+    const calculateWithdrawRate = (withdraw, enrollment) => {
+        if (enrollment === 0) return 0; // Avoid division by zero
+        return (withdraw / enrollment) * 100; // Return a numeric value
+    };
+
     const sortedNewInstances = React.useMemo(() => {
         let sortableItems = [...newInstances];
         if (sortConfig.key !== null) {
@@ -123,6 +128,12 @@ const InstructorDetail = () => {
                     bValue = getCourseTitle(b.course_id);
                 }
 
+                // Special handling for withdraw_rate
+                if (sortConfig.key === 'withdraw_rate') {
+                    aValue = calculateWithdrawRate(a.withdraw, a.enrollment);
+                    bValue = calculateWithdrawRate(b.withdraw, b.enrollment);
+                }
+
                 if (aValue < bValue) {
                     return sortConfig.direction === 'ascending' ? -1 : 1;
                 }
@@ -150,6 +161,12 @@ const InstructorDetail = () => {
                 if (sortConfig.key === 'title') {
                     aValue = getCourseTitle(a.course_id);
                     bValue = getCourseTitle(b.course_id);
+                }
+
+                // Special handling for withdraw_rate
+                if (sortConfig.key === 'withdraw_rate') {
+                    aValue = calculateWithdrawRate(a.withdraw, a.enrollment);
+                    bValue = calculateWithdrawRate(b.withdraw, b.enrollment);
                 }
 
                 if (aValue < bValue) {
@@ -265,6 +282,7 @@ const InstructorDetail = () => {
                                 <th onClick={() => requestSort('gpa')}>GPA{getSortDirectionIndicator('gpa')}</th>
                                 <th onClick={() => requestSort('enrollment')}>Enrollment{getSortDirectionIndicator('enrollment')}</th>
                                 <th onClick={() => requestSort('withdraw')}>Withdraw{getSortDirectionIndicator('withdraw')}</th>
+                                <th onClick={() => requestSort('withdraw_rate')}>Withdraw Rate{getSortDirectionIndicator('withdraw_rate')}</th>
                                 <th onClick={() => requestSort('past_classes')}>Past Classes{getSortDirectionIndicator('past_classes')}</th>
                             </tr>
                         </thead>
@@ -278,6 +296,7 @@ const InstructorDetail = () => {
                                     <td>{instructorCourseStat.gpa.toFixed(2)}</td>
                                     <td>{instructorCourseStat.enrollment.toFixed(2)}</td>
                                     <td>{instructorCourseStat.withdraw.toFixed(2)}</td>
+                                    <td>{calculateWithdrawRate(instructorCourseStat.withdraw, instructorCourseStat.enrollment).toFixed(2)}%</td>
                                     <td>{instructorCourseStat.past_classes}</td>
                                 </tr>
                             ))}
@@ -305,6 +324,7 @@ const InstructorDetail = () => {
                                 <th onClick={() => requestSort('gpa')}>GPA{getSortDirectionIndicator('gpa')}</th>
                                 <th onClick={() => requestSort('enrollment')}>Enrollment{getSortDirectionIndicator('enrollment')}</th>
                                 <th onClick={() => requestSort('withdraw')}>Withdraw{getSortDirectionIndicator('withdraw')}</th>
+                                <th onClick={() => requestSort('withdraw_rate')}>Withdraw Rate{getSortDirectionIndicator('withdraw_rate')}</th>
                             </tr>
                         </thead>
                         <tbody>
@@ -320,6 +340,7 @@ const InstructorDetail = () => {
                                     <td>{pastInstance.gpa.toFixed(2)}</td>
                                     <td>{pastInstance.enrollment}</td>
                                     <td>{pastInstance.withdraw}</td>
+                                    <td>{calculateWithdrawRate(pastInstance.withdraw, pastInstance.enrollment).toFixed(2)}%</td>
                                 </tr>
                             ))}
                         </tbody>
