@@ -1,0 +1,5 @@
+python scraper.py
+python past_cleaner.py
+python new_cleaner.py
+python increment.py
+python import.py

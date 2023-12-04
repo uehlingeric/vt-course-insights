@@ -1,0 +1,31 @@
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+}
+
+th,
+td {
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background-color: #f5f5f5;
+}
+
+input {
+  margin-bottom: 10px;
+  padding: 8px;
+}
+
+.add-to-schedule-col {
+  width: 100px;
+  /* Adjust this width as needed */
+  text-align: center;
+}
