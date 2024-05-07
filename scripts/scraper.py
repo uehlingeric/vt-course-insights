@@ -83,12 +83,12 @@ def save_to_csv(data, filename):
 
 
 def main():
-    term_year = '202401'  # Spring 2024
+    term_year = '202409'  # Fall 2024
 
     subject_codes = [
         'AAD', 'AAEC', 'ACIS', 'ADV', 'AFST', 'AHRM', 'AINS', 'AIS', 'ALCE', 'ALS',
         'AOE', 'APS', 'APSC', 'ARBC', 'ARCH', 'ART', 'AS', 'ASPT', 'AT', 'BC',
-        'BCHM', 'BDS', 'BIOL', 'BIT', 'BMES', 'BMSP', 'BMVS', 'BSE', 'BUS', 'CEE',
+        'BCHM', 'BDS', 'BIOL', 'BIT', 'BMES', 'BMSP', 'BMVS', 'BSE', 'CEE',
         'CEM', 'CHE', 'CHEM', 'CHN', 'CINE', 'CLA', 'CMDA', 'CMST', 'CNST', 'COMM',
         'CONS', 'COS', 'CRIM', 'CS', 'CSES', 'DANC', 'DASC', 'ECE', 'ECON', 'EDCI',
         'EDCO', 'EDCT', 'EDEL', 'EDEP', 'EDHE', 'EDIT', 'EDP', 'EDRE', 'EDTE', 'ENGE',
