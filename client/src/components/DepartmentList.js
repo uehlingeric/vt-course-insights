@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
-import { Link } from 'react-router-dom'; 
-import './List.css';
+import { Link } from 'react-router-dom';
+import './List.css'; 
 
 const DepartmentList = () => {
     const [departments, setDepartments] = useState([]);
@@ -43,6 +43,16 @@ const DepartmentList = () => {
         }
     };
 
+    const getGPATextColor = (gpa) => {
+        if (gpa > 3) {
+            return 'green';
+        } else if (gpa < 3) {
+            return 'red';
+        } else {
+            return 'black';
+        }
+    };
+
     // Sort and filter the departments based on user input and selected sort configuration
     const sortedAndFilteredDepartments = React.useMemo(() => {
         let sortableItems = [...departments];
@@ -62,7 +72,6 @@ const DepartmentList = () => {
             dept.title.toLowerCase().includes(searchTerm.toLowerCase())
         );
     }, [departments, searchTerm, sortConfig]);
-
 
     return (
         <div>
@@ -88,10 +97,12 @@ const DepartmentList = () => {
                     {sortedAndFilteredDepartments.map(dept => (
                         <tr key={dept.dept_id}>
                             <td>
-                                <Link to={`/department/${dept.dept_id}`}>{dept.dept_id}</Link>
+                                <Link to={`/department/${dept.dept_id}`} className="dept-link">
+                                    {dept.dept_id}
+                                </Link>
                             </td>
                             <td>{dept.title}</td>
-                            <td>{dept.gpa.toFixed(2)}</td>
+                            <td style={{ color: getGPATextColor(dept.gpa) }}>{dept.gpa.toFixed(2)}</td>
                             <td>{dept.past_classes}</td>
                             <td>{dept.unique_classes}</td>
                             <td>{dept.new_classes}</td>

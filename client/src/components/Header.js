@@ -1,6 +1,7 @@
 // Header.js
 import React from 'react';
-import { useNavigate } from 'react-router-dom';
+import { useNavigate, Link } from 'react-router-dom';
+import logo from './VTlogo.png'; 
 
 const Header = ({ isAuthenticated, handleSignOut, username }) => {
   const navigate = useNavigate();
@@ -11,7 +12,12 @@ const Header = ({ isAuthenticated, handleSignOut, username }) => {
 
   return (
     <header style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', padding: '10px 20px', backgroundColor: '#f5f5f5' }}>
-      <h1>CourseCrafters</h1>
+      <div style={{ display: 'flex', alignItems: 'center' }}>
+        <Link to="/" style={{ textDecoration: 'none' }}>
+          <img src={logo} alt="Logo" style={{ width: '150px', height: 'auto', marginRight: '10px' }} />
+        </Link>
+        <h1>CourseCrafters</h1>
+      </div>
       <div>
         <button onClick={() => navigateTo('/')} style={{ marginRight: '10px' }}>Home</button>
         {!isAuthenticated ? (

@@ -5,7 +5,7 @@ import './List.css';
 
 const DepartmentDetail = () => {
   const [activeTab, setActiveTab] = useState('courses');
-  const [department, setDepartment] = useState([]);
+  const [department, setDepartment] = useState({});
   const [courses, setCourses] = useState([]);
   const [instructors, setInstructors] = useState([]);
   const [searchTerm, setSearchTerm] = useState('');
@@ -133,6 +133,15 @@ const DepartmentDetail = () => {
     instructor.instructor_id.toLowerCase().includes(searchTerm.toLowerCase())
   );
 
+  const getGPATextColor = (gpa) => {
+    if (gpa > 3) {
+      return 'green'; 
+    } else if (gpa < 3) {
+      return 'red'; 
+    } else {
+      return 'black'; 
+    }
+  };
   return (
     <div>
       <h2>{department.dept_id} - {department.title}</h2>
@@ -165,11 +174,11 @@ const DepartmentDetail = () => {
               {filteredAndSortedCourses.map(course => (
                 <tr key={course.course_id}>
                   <td>
-                    <Link to={`/course/${course.course_id}`}>{course.course_id}</Link>
-                  </td>
+                   <Link to={`/course/${course.course_id}`} className="dept-link">{course.course_id}</Link>
+                  </td> 
                   <td>{course.title}</td>
                   <td>{course.credits}</td>
-                  <td>{course.gpa.toFixed(2)}</td>
+                  <td style={{ color: getGPATextColor(course.gpa) }}>{course.gpa.toFixed(2)}</td>
                   <td>{course.enrollment.toFixed(2)}</td>
                   <td>{course.withdraw.toFixed(2)}</td>
                   <td>{calculateWithdrawRate(course.withdraw, course.enrollment).toFixed(2)}%</td>
@@ -205,12 +214,9 @@ const DepartmentDetail = () => {
             <tbody>
               {filteredAndSortedInstructors.map(instructor => (
                 <tr key={instructor.instructor_id}>
-                  <td>
-                    <Link to={`/instructor/${instructor.instructor_id}`}>{instructor.last_name}</Link>
-                  </td>
-                  <td>{instructor.gpa.toFixed(2)}</td>
+                  <td>{instructor.last_name}</td>
+                  <td style={{ color: getGPATextColor(instructor.gpa) }}>{instructor.gpa.toFixed(2)}</td>
                   <td>{instructor.enrollment.toFixed(2)}</td>
-                  <td>{instructor.withdraw.toFixed(2)}</td>
                   <td>{calculateWithdrawRate(instructor.withdraw, instructor.enrollment).toFixed(2)}%</td>
                   <td>{instructor.past_classes}</td>
                   <td>{instructor.new_classes}</td>

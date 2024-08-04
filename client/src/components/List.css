@@ -2,21 +2,17 @@ table {
   width: 100%;
   border-collapse: collapse;
 }
-
-table,
 th,
 td {
-  border: 1px solid black;
-}
-
-th,
-td {
+  border: none;
   padding: 8px;
   text-align: left;
 }
 
 th {
   background-color: #f5f5f5;
+  text-align: left;
+  border-bottom: 2px solid #000; /* Add a bottom border to the table headers */
 }
 
 input {
@@ -28,4 +24,12 @@ input {
   width: 100px;
   /* Adjust this width as needed */
   text-align: center;
+}
+.dept-link {
+  color:  #810d0d; 
+  text-decoration: none; /* Optional Removes underline */
+}
+
+.dept-link:hover {
+  color: #E5751F; 
 }
