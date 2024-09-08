@@ -224,3 +224,8 @@ This project implements a secure user authentication system. The system allows u
 ### Frontend Implementation
 
 The frontend interacts with these endpoints through forms and fetch requests. React state and context are used to manage user authentication status and roles across the application.
+
+## Credits
+
+Eric: Frontend and Backend Implementation.
+Gandi: UI and Design Implementation.
