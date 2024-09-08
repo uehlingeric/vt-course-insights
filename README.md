@@ -27,20 +27,20 @@ Follow these steps to set up Course Crafters on your local environment:
    - Ensure you have **Python**, **Node.js**, and **MongoDB** (including MongoDB Compass) installed. If not, download and install them from their official websites.
 
 2. **Set Up MongoDB**:
-   - Open MongoDB Compass and create a new database named `CourseCrafterDB`.
+   - Open MongoDB Compass and create a new database named `VTCourseInsightDB`.
    - Within this database, create a collection named `user`.
 
 3. **Clone the Repository**:
    - Use git to clone the Course Crafters repository:
      ```bash
-     git clone https://github.com/uehlingeric/CourseCrafters.git
+     git clone https://github.com/uehlingeric/VTCourseInsights.git
      ```
 
 4. **Create Environment Variables**:
    - Navigate to the cloned repository's root directory.
    - Create a `.env` file and add the following lines:
      ```
-     MONGODB_URI=mongodb://127.0.0.1/CourseCrafterDB
+     MONGODB_URI=mongodb://127.0.0.1/VTCourseInsightDB
      JWT_SECRET=your_secret_string_here
      ```
      Replace `your_secret_string_here` with any long string of your choice.
