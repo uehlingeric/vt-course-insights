@@ -33,7 +33,7 @@ function App() {
         <Header isAuthenticated={isAuthenticated} handleSignOut={handleSignOut} username={username} />
         <main style={{ padding: '20px' }}>
           <section>
-            <p>Welcome to CourseCrafters! This web app provides detailed information about courses, departments, and instructors from the past 5 years at Virginia Tech.</p>
+            <p>Welcome to VTCourseInisghts! This web app provides detailed information about courses, departments, and instructors from the past 5 years at Virginia Tech.</p>
           </section>
           <Routes>
             <Route path="/" element={<DepartmentList />} />

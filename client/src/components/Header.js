@@ -16,7 +16,7 @@ const Header = ({ isAuthenticated, handleSignOut, username }) => {
         <Link to="/" style={{ textDecoration: 'none' }}>
           <img src={logo} alt="Logo" style={{ width: '150px', height: 'auto', marginRight: '10px' }} />
         </Link>
-        <h1>CourseCrafters</h1>
+        <h1>Course Insights</h1>
       </div>
       <div>
         <button onClick={() => navigateTo('/')} style={{ marginRight: '10px' }}>Home</button>

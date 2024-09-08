@@ -65,7 +65,7 @@ def main():
     The MongoDB database and the folder containing the CSV files are specified within the function.
     """
     folder_path = 'cleaned_data/'  # Folder containing CSV files
-    db_name = 'CourseCrafterDB'    # Database name
+    db_name = 'VTCourseInsightDB'    # Database name
 
     client = MongoClient("mongodb://localhost:27017/")
     db = client[db_name]
