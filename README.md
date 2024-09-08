@@ -227,5 +227,5 @@ The frontend interacts with these endpoints through forms and fetch requests. Re
 
 ## Credits
 
-Eric: Frontend and Backend Implementation.
-Gandi: UI and Design Implementation.
+- Eric: Frontend and Backend Implementation.
+- Gandi: UI and Design Implementation.
