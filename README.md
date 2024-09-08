@@ -1,4 +1,4 @@
-# Course Crafters
+# VT Course Insights
 
 This MERN stack web application is designed to assist Virginia Tech students in making informed decisions about their course enrollments for upcoming semesters. By providing access to historical data on departments, courses, and instructors, the application empowers students to consider various factors such as GPA trends, enrollment numbers, and withdrawal rates before finalizing their class schedules. The data spans a period of five years (2018-2023), offering a comprehensive overview of academic performance and trends at Virginia Tech. This user-friendly platform aims to simplify the course selection process, making it more data-driven and tailored to each student's academic needs and goals.
 
