@@ -1,4 +1,4 @@
-# Course Crafters
+# VT Course Insights
 
 This MERN stack web application is designed to assist Virginia Tech students in making informed decisions about their course enrollments for upcoming semesters. By providing access to historical data on departments, courses, and instructors, the application empowers students to consider various factors such as GPA trends, enrollment numbers, and withdrawal rates before finalizing their class schedules. The data spans a period of five years (2018-2023), offering a comprehensive overview of academic performance and trends at Virginia Tech. This user-friendly platform aims to simplify the course selection process, making it more data-driven and tailored to each student's academic needs and goals.
 
@@ -27,20 +27,20 @@ Follow these steps to set up Course Crafters on your local environment:
    - Ensure you have **Python**, **Node.js**, and **MongoDB** (including MongoDB Compass) installed. If not, download and install them from their official websites.
 
 2. **Set Up MongoDB**:
-   - Open MongoDB Compass and create a new database named `CourseCrafterDB`.
+   - Open MongoDB Compass and create a new database named `VTCourseInsightDB`.
    - Within this database, create a collection named `user`.
 
 3. **Clone the Repository**:
    - Use git to clone the Course Crafters repository:
      ```bash
-     git clone https://github.com/uehlingeric/CourseCrafters.git
+     git clone https://github.com/uehlingeric/VTCourseInsights.git
      ```
 
 4. **Create Environment Variables**:
    - Navigate to the cloned repository's root directory.
    - Create a `.env` file and add the following lines:
      ```
-     MONGODB_URI=mongodb://127.0.0.1/CourseCrafterDB
+     MONGODB_URI=mongodb://127.0.0.1/VTCourseInsightDB
      JWT_SECRET=your_secret_string_here
      ```
      Replace `your_secret_string_here` with any long string of your choice.
@@ -224,3 +224,8 @@ This project implements a secure user authentication system. The system allows u
 ### Frontend Implementation
 
 The frontend interacts with these endpoints through forms and fetch requests. React state and context are used to manage user authentication status and roles across the application.
+
+## Credits
+
+- Eric: Frontend and Backend Implementation.
+- Gandi: UI and Design Implementation.
